@@ -1,0 +1,88 @@
+{
+  "theme": "light",
+  "archetype": "1_organic_and_earthy",
+  "design_philosophy": "Civic-tech and environmental governance. WANA must feel like a protective early warning system. Modern, approachable, trustworthy, and lightweight. Low-bandwidth optimized with card-based layouts and progressive disclosure.",
+  "typography": {
+    "heading_font": "Work Sans",
+    "body_font": "IBM Plex Sans",
+    "scale": {
+      "h1": "text-4xl sm:text-5xl lg:text-6xl tracking-tight leading-none",
+      "h2": "text-2xl sm:text-3xl lg:text-4xl tracking-tight",
+      "h3": "text-xl sm:text-2xl tracking-tight",
+      "h4": "text-lg sm:text-xl",
+      "body": "text-base leading-relaxed",
+      "small": "text-sm",
+      "overline": "text-xs uppercase tracking-[0.2em] font-semibold"
+    },
+    "instructions": "Avoid Inter for headings. Keep hierarchy clear. Ensure minimum 4.5:1 contrast for all text."
+  },
+  "colors": {
+    "background": "#F7F5F0",
+    "surface": "#FFFFFF",
+    "primary": "#1C3F2B",
+    "primary_foreground": "#FFFFFF",
+    "secondary": "#4A6B53",
+    "secondary_foreground": "#FFFFFF",
+    "accent_warning": "#D49A36",
+    "accent_critical": "#B75D46",
+    "accent_info": "#5A7A85",
+    "text_primary": "#1C1B1A",
+    "text_secondary": "#595754",
+    "border": "#EBE5D9",
+    "instructions": "Use earthy, calm tones. Never use pure red for alerts; use Terracotta (#B75D46). Use Golden Ochre (#D49A36) for warnings. Do not use pure black (#000000); use Charcoal Gray (#1C1B1A). Background should be a soft beige to reduce eye strain."
+  },
+  "layout_and_spacing": {
+    "spacing_scale": "Tailwind standard (p-4, p-6, p-8, p-12). Generous padding for breathing room.",
+    "dashboard_grid": "Bento Grid protocol Mode B (Control Room) for dashboards. Compact, strict hierarchy, exception-first layout.",
+    "marketing_grid": "Bento Grid protocol Mode A (Tetris) for landing pages. Asymmetric, breathing room.",
+    "cards": "Flat solid surfaces with subtle 1px border (border-border), no heavy shadows. Max 8px border-radius (rounded-md).",
+    "navigation": "Sticky top nav with solid background (bg-[#F7F5F0]/90) and backdrop blur to prevent text collision on scroll."
+  },
+  "components": {
+    "strategy": "Use pure HTML/Tailwind for marketing layouts. Use Shadcn UI for interactive elements (Dropdowns, Tables, Dialogs). Go cardless or flat-rectangular where possible to feel like a document rather than a SaaS toy.",
+    "buttons": "Primary CTA uses bg-[#1C3F2B]. Add subtle hover states (e.g., hover:bg-[#1C3F2B]/90) and ensure clear focus rings for accessibility.",
+    "status_labels": "Crucial for early warning. Pair color with explicit text ('Potential Impact', 'Confirmed Impact'). Example: bg-[#B75D46]/10 text-[#B75D46] for critical.",
+    "map": "Leaflet with OpenStreetMap. Lightweight. Keep UI controls minimal and overlaid with crystal glassmorphism.",
+    "ai_generator": "Show explainable AI elements. Confidence indicators, source data citations, clear 'What this means' summary cards."
+  },
+  "icons": {
+    "library": "lucide-react",
+    "style": "Minimal, functional, 2px stroke, avoid decorative icons in dense data tables."
+  },
+  "motion_and_interaction": {
+    "philosophy": "Minimalist and purposeful. No flashy animations.",
+    "hover_states": "Subtle background color shifts and -translate-y-[1px] for cards.",
+    "transitions": "transition-all duration-200 ease-in-out",
+    "accessibility": "Respect prefers-reduced-motion."
+  },
+  "image_urls": {
+    "hero_background": {
+      "url": "https://images.pexels.com/photos/25306350/pexels-photo-25306350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Lush misty tropical rainforest landscape in Indonesia. Use for Landing Page hero background with an overlay to ensure text legibility (max bg-black/50 or dark green gradient).",
+      "category": "hero"
+    },
+    "about_community": {
+      "url": "https://images.pexels.com/photos/27471164/pexels-photo-27471164.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Diverse group of adults and children gather under a tree for a community meeting. Use for About or Theory of Change page to represent indigenous communities and paralegals.",
+      "category": "marketing"
+    },
+    "legal_documents": {
+      "url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxOTF8MHwxfHNlYXJjaHwyfHxsZWdhbCUyMGRvY3VtZW50c3xlbnwwfHx8fDE3ODA0ODAwNjB8MA&ixlib=rb-4.1.0&q=85",
+      "description": "Man writing on paper/legal documents. Use as visual accent for the AI Impact Brief Generator or Evidence Pack Workflow section.",
+      "category": "app_workflow"
+    }
+  },
+  "testing": {
+    "data_testid": "MANDATORY. All interactive elements (buttons, links, form inputs, map overlays, AI summaries) must have data-testid attributes (e.g., data-testid='upload-regulation-button')."
+  },
+  "instructions_to_main_agent": [
+    "Build a bilingual (ID/EN) hybrid multi-page application using React/Tailwind/Shadcn.",
+    "Prioritize mobile-first layout and low-bandwidth considerations (avoid heavy libraries if not strictly needed; use Leaflet).",
+    "Ensure all text has a minimum 4.5:1 contrast ratio against backgrounds.",
+    "Implement the 'Regulatory Monitor Dashboard' using a table with progressive disclosure (Issue triage cards, Exception-first layout).",
+    "For the Map, use Leaflet and ensure indigenous territory overlap is visually clear but lightweight.",
+    "Use pure HTML/Tailwind for Landing/About pages (Bento mode A). Use Shadcn components for Dashboard/Generator/Evidence workflows.",
+    "Include 'data-testid' on all interactive elements as requested.",
+    "Follow the specified color palette exactly. Do not use generic 'blue' for links or buttons."
+  ]
+}

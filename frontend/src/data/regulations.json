@@ -1,0 +1,3570 @@
+[
+  {
+    "id": "6be6cd08-0384-4331-baa5-719592419b51",
+    "number": "Perpres No. 105/2025",
+    "title_id": "Penetapan Proyek Strategis Nasional Kawasan Industri Hijau di Bangka Belitung",
+    "title_en": "National Strategic Project Designation: Kawasan Industri Hijau in Bangka Belitung",
+    "institution": "Kementerian Koordinator Perekonomian",
+    "date_issued": "2025-05-12",
+    "region": "Bangka Belitung",
+    "summary_id": "Proyek Strategis Nasional di Bangka Belitung berpotensi memotong wilayah hidup komunitas Lom tanpa konsultasi yang memadai.",
+    "summary_en": "The National Strategic Project in Bangka Belitung may cut through the Lom living space without adequate consultation.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Lom"
+    ],
+    "category": "psn",
+    "risk_level": "rendah",
+    "risk_score": 26,
+    "confidence_score": 0.65,
+    "communities": [
+      "Lom"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "a378dbfc-0cec-441c-a3d3-097d9f36c35d",
+    "number": "P.687/MENLHK/2024",
+    "title_id": "Perubahan Fungsi Kawasan Hutan Lindung Wasur di Bali",
+    "title_en": "Change of Protected Forest Function: Wasur in Bali",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-09-05",
+    "region": "Bali",
+    "summary_id": "Penetapan ulang batas hutan lindung di Bali berdampak pada hak akses tradisional komunitas Tenganan Pegringsingan terhadap hasil hutan.",
+    "summary_en": "Re-designation of protected forest boundaries in Bali impacts traditional access of the Tenganan Pegringsingan community.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Tenganan Pegringsingan"
+    ],
+    "category": "hutan_lindung",
+    "risk_level": "sedang",
+    "risk_score": 47,
+    "confidence_score": 0.85,
+    "communities": [
+      "Tenganan Pegringsingan"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "8bfd5893-ea7b-4bc1-9567-879974a77f5b",
+    "number": "SK.552/MENLHK/2026",
+    "title_id": "Izin Pemanfaatan Hutan untuk HTI Jabon di Papua Tengah",
+    "title_en": "Industrial Plantation Forest Permit for Jabon in Papua Tengah",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-09-09",
+    "region": "Papua Tengah",
+    "summary_id": "Penetapan kawasan HTI di Papua Tengah dapat membatasi akses tradisional komunitas Wandamen terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Papua Tengah may restrict traditional access of the Wandamen community to non-timber forest products and sacred sites.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Wandamen"
+    ],
+    "category": "hti",
+    "risk_level": "sedang",
+    "risk_score": 35,
+    "confidence_score": 0.75,
+    "communities": [
+      "Wandamen"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "0f4635ee-641a-4e42-8cad-5ef7776b9d60",
+    "number": "P.301/MENLHK/2024",
+    "title_id": "Perubahan Fungsi Kawasan Konservasi Sebangau di Gorontalo",
+    "title_en": "Change of Conservation Area Function Sebangau in Gorontalo",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-03-17",
+    "region": "Gorontalo",
+    "summary_id": "Perubahan fungsi kawasan konservasi di Gorontalo berpengaruh pada hak kelola tradisional komunitas Suwawa.",
+    "summary_en": "Conservation-area function change in Gorontalo affects traditional management rights of the Suwawa community.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Suwawa"
+    ],
+    "category": "konservasi",
+    "risk_level": "tinggi",
+    "risk_score": 61,
+    "confidence_score": 0.82,
+    "communities": [
+      "Suwawa"
+    ],
+    "recommendation_id": "Lakukan konsultasi FPIC (Free, Prior, Informed Consent) dengan komunitas adat terdampak.",
+    "recommendation_en": "Conduct FPIC (Free, Prior, Informed Consent) with affected indigenous communities.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "7127dede-260d-4fb0-b647-467dccbf8dce",
+    "number": "SK.836/MENLHK/2025",
+    "title_id": "Izin Pemanfaatan Hutan untuk HTI Akasia di Bali",
+    "title_en": "Industrial Plantation Forest Permit for Acacia in Bali",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-03-27",
+    "region": "Bali",
+    "summary_id": "Penetapan kawasan HTI di Bali dapat membatasi akses tradisional komunitas Bali Aga Sidatapa terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Bali may restrict traditional access of the Bali Aga Sidatapa community to non-timber forest products and sacred sites.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Bali Aga Sidatapa"
+    ],
+    "category": "hti",
+    "risk_level": "tinggi",
+    "risk_score": 82,
+    "confidence_score": 0.79,
+    "communities": [
+      "Bali Aga Sidatapa"
+    ],
+    "recommendation_id": "Dampingi komunitas menyiapkan paket bukti hukum dan surat keberatan resmi.",
+    "recommendation_en": "Support the community in preparing a legal evidence pack and formal objection letter.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "660aae82-a2c4-4fc8-af93-0bab5b7c770d",
+    "number": "SK.647/MENLHK/2026",
+    "title_id": "Perpanjangan Izin Usaha Pemanfaatan Hutan Tanaman Industri di Maluku",
+    "title_en": "Extension of Industrial Plantation Forest Permit in Maluku",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-04-06",
+    "region": "Maluku",
+    "summary_id": "Penetapan kawasan HTI di Maluku dapat membatasi akses tradisional komunitas Kei Besar terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Maluku may restrict traditional access of the Kei Besar community to non-timber forest products and sacred sites.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Kei Besar",
+      "Nuaulu"
+    ],
+    "category": "hti",
+    "risk_level": "sedang",
+    "risk_score": 40,
+    "confidence_score": 0.76,
+    "communities": [
+      "Kei Besar",
+      "Nuaulu"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "fd97fa3f-805e-46b2-9aea-6a656af3ef3b",
+    "number": "Perpres No. 195/2024",
+    "title_id": "Percepatan PSN Bendungan Bener di Kepulauan Riau",
+    "title_en": "Acceleration of National Strategic Project Bendungan Bener in Kepulauan Riau",
+    "institution": "Kementerian Koordinator Perekonomian",
+    "date_issued": "2026-01-13",
+    "region": "Kepulauan Riau",
+    "summary_id": "Proyek Strategis Nasional di Kepulauan Riau berpotensi memotong wilayah hidup komunitas Suku Laut tanpa konsultasi yang memadai.",
+    "summary_en": "The National Strategic Project in Kepulauan Riau may cut through the Suku Laut living space without adequate consultation.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Suku Laut",
+      "Orang Mantang"
+    ],
+    "category": "psn",
+    "risk_level": "sedang",
+    "risk_score": 53,
+    "confidence_score": 0.68,
+    "communities": [
+      "Suku Laut",
+      "Orang Mantang"
+    ],
+    "recommendation_id": "Dorong dialog multi-pihak yang dimediasi Komnas HAM atau pemerintah daerah.",
+    "recommendation_en": "Push multi-stakeholder dialogue mediated by Komnas HAM or local government.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "59c55642-a5a5-409e-8628-f20af97032db",
+    "number": "SK.223/MENLHK/2025",
+    "title_id": "Penetapan Hutan Adat Komunitas Orang Mantang di Kepulauan Riau",
+    "title_en": "Designation of Orang Mantang Customary Forest in Kepulauan Riau",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-04-07",
+    "region": "Kepulauan Riau",
+    "summary_id": "Skema perhutanan sosial di Kepulauan Riau memberi peluang baru bagi komunitas Orang Mantang untuk mengelola hutan secara legal.",
+    "summary_en": "Social forestry scheme in Kepulauan Riau provides new legal pathways for the Orang Mantang community to manage forests.",
+    "impact_status": "safe",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Orang Mantang"
+    ],
+    "category": "perhutanan_sosial",
+    "risk_level": "rendah",
+    "risk_score": 21,
+    "confidence_score": 0.9,
+    "communities": [
+      "Orang Mantang"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "67c61fcf-6bfe-4e5a-a383-d2654dfb59c2",
+    "number": "SK ESDM No. 245/2025",
+    "title_id": "Izin Usaha Pertambangan Emas di Kalimantan Tengah",
+    "title_en": "Gold Mining Business Permit in Kalimantan Tengah",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2025-04-26",
+    "region": "Kalimantan Tengah",
+    "summary_id": "Regulasi ini berpotensi menyebabkan tumpang tindih dengan wilayah adat Dayak Ngaju Kapuas di Kalimantan Tengah akibat masuknya konsesi tambang ke kawasan hidup komunitas.",
+    "summary_en": "This regulation may create overlap with the Dayak Ngaju Kapuas customary territory in Kalimantan Tengah due to mining concessions entering community living space.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Dayak Ngaju Kapuas"
+    ],
+    "category": "tambang",
+    "risk_level": "sedang",
+    "risk_score": 30,
+    "confidence_score": 0.84,
+    "communities": [
+      "Dayak Ngaju Kapuas"
+    ],
+    "recommendation_id": "Lakukan konsultasi FPIC (Free, Prior, Informed Consent) dengan komunitas adat terdampak.",
+    "recommendation_en": "Conduct FPIC (Free, Prior, Informed Consent) with affected indigenous communities.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "6fa63fc1-ad48-4b8f-97e2-764a99ec0821",
+    "number": "SK.271/MENLHK/2024",
+    "title_id": "Pelepasan Kawasan Hutan untuk Perkebunan Sawit PT Hijau Khatulistiwa di Sulawesi Tenggara",
+    "title_en": "Forest Area Release for Palm Oil Plantation PT Hijau Khatulistiwa in Sulawesi Tenggara",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-02-07",
+    "region": "Sulawesi Tenggara",
+    "summary_id": "Pembukaan perkebunan sawit di Sulawesi Tenggara berpotensi menggeser wilayah adat Muna Tikep dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in Sulawesi Tenggara may displace the Muna Tikep customary territory and reduce community forest cover.",
+    "impact_status": "safe",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Muna Tikep"
+    ],
+    "category": "sawit",
+    "risk_level": "rendah",
+    "risk_score": 24,
+    "confidence_score": 0.9,
+    "communities": [
+      "Muna Tikep"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "5967fbef-40db-494a-bc19-d484aa68664d",
+    "number": "Perpres No. 926/2026",
+    "title_id": "Pinjam Pakai Kawasan Hutan untuk Jalan Tol Lintas Provinsi di Nusa Tenggara Barat",
+    "title_en": "Forest Area Borrow-to-Use for Inter-province Toll Road in Nusa Tenggara Barat",
+    "institution": "Pemprov terkait",
+    "date_issued": "2024-11-24",
+    "region": "Nusa Tenggara Barat",
+    "summary_id": "Pembangunan infrastruktur di Nusa Tenggara Barat dapat melintasi wilayah komunitas Sumbawa Brang Rea, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Nusa Tenggara Barat may cross Sumbawa Brang Rea territory, requiring coordination before operations.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Sumbawa Brang Rea"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "sedang",
+    "risk_score": 43,
+    "confidence_score": 0.65,
+    "communities": [
+      "Sumbawa Brang Rea"
+    ],
+    "recommendation_id": "Lakukan mediasi komunitas dan dialog multi-pihak sebelum operasional dimulai.",
+    "recommendation_en": "Initiate community mediation and multi-stakeholder dialogue before operations begin.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "5320b013-6025-42b5-9f5a-a0b4a75cf10a",
+    "number": "SK ESDM No. 274/2024",
+    "title_id": "Penetapan Wilayah Kerja Panas Bumi Patuha di Papua Pegunungan",
+    "title_en": "Geothermal Working Area Designation: Patuha in Papua Pegunungan",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2024-06-17",
+    "region": "Papua Pegunungan",
+    "summary_id": "Wilayah kerja panas bumi di Papua Pegunungan berpotensi membuka akses jalan ke wilayah inti komunitas Yali yang sebelumnya terisolasi.",
+    "summary_en": "Geothermal work area in Papua Pegunungan may open road access into previously isolated Yali core territory.",
+    "impact_status": "safe",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Yali"
+    ],
+    "category": "geothermal",
+    "risk_level": "rendah",
+    "risk_score": 19,
+    "confidence_score": 0.83,
+    "communities": [
+      "Yali"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "64224624-316e-47bf-9d89-9d798f3ee0f5",
+    "number": "P.445/MENLHK/2026",
+    "title_id": "Perubahan Fungsi Kawasan Konservasi Kerumutan di Maluku",
+    "title_en": "Change of Conservation Area Function Kerumutan in Maluku",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-06-17",
+    "region": "Maluku",
+    "summary_id": "Perubahan fungsi kawasan konservasi di Maluku berpengaruh pada hak kelola tradisional komunitas Naulu Sepa.",
+    "summary_en": "Conservation-area function change in Maluku affects traditional management rights of the Naulu Sepa community.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Naulu Sepa"
+    ],
+    "category": "konservasi",
+    "risk_level": "kritis",
+    "risk_score": 88,
+    "confidence_score": 0.75,
+    "communities": [
+      "Naulu Sepa"
+    ],
+    "recommendation_id": "Usulkan moratorium izin baru di wilayah tumpang tindih hingga proses verifikasi selesai.",
+    "recommendation_en": "Propose a moratorium on new permits in overlap zones until verification completes.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "ac264e5b-a089-498d-bca9-439a569f470e",
+    "number": "Perpres No. 431/2024",
+    "title_id": "Pinjam Pakai Kawasan Hutan untuk Pelabuhan Lokal di Bangka Belitung",
+    "title_en": "Forest Area Borrow-to-Use for Local Port in Bangka Belitung",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2024-07-12",
+    "region": "Bangka Belitung",
+    "summary_id": "Pembangunan infrastruktur di Bangka Belitung dapat melintasi wilayah komunitas Mapur, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Bangka Belitung may cross Mapur territory, requiring coordination before operations.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Mapur"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "rendah",
+    "risk_score": 24,
+    "confidence_score": 0.74,
+    "communities": [
+      "Mapur"
+    ],
+    "recommendation_id": "Lakukan konsultasi FPIC (Free, Prior, Informed Consent) dengan komunitas adat terdampak.",
+    "recommendation_en": "Conduct FPIC (Free, Prior, Informed Consent) with affected indigenous communities.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "0c680145-4ce4-4b97-aff3-c604c3fc10da",
+    "number": "SK ESDM No. 871/2026",
+    "title_id": "Izin Pinjam Pakai Kawasan Hutan untuk Pertambangan Bauksit di Gorontalo",
+    "title_en": "Forest Area Borrow-to-Use Permit for Bauxite Mining in Gorontalo",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2025-02-24",
+    "region": "Gorontalo",
+    "summary_id": "Regulasi ini berpotensi menyebabkan tumpang tindih dengan wilayah adat Bolango di Gorontalo akibat masuknya konsesi tambang ke kawasan hidup komunitas.",
+    "summary_en": "This regulation may create overlap with the Bolango customary territory in Gorontalo due to mining concessions entering community living space.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Bolango"
+    ],
+    "category": "tambang",
+    "risk_level": "rendah",
+    "risk_score": 22,
+    "confidence_score": 0.78,
+    "communities": [
+      "Bolango"
+    ],
+    "recommendation_id": "Dorong dialog multi-pihak yang dimediasi Komnas HAM atau pemerintah daerah.",
+    "recommendation_en": "Push multi-stakeholder dialogue mediated by Komnas HAM or local government.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "1150e6c4-922c-42fd-b71f-12356ce71ed2",
+    "number": "SK ESDM No. 914/2026",
+    "title_id": "Penetapan Wilayah Kerja Panas Bumi Lahendong di Jawa Barat",
+    "title_en": "Geothermal Working Area Designation: Lahendong in Jawa Barat",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2024-11-21",
+    "region": "Jawa Barat",
+    "summary_id": "Wilayah kerja panas bumi di Jawa Barat berpotensi membuka akses jalan ke wilayah inti komunitas Cireundeu yang sebelumnya terisolasi.",
+    "summary_en": "Geothermal work area in Jawa Barat may open road access into previously isolated Cireundeu core territory.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Cireundeu"
+    ],
+    "category": "geothermal",
+    "risk_level": "sedang",
+    "risk_score": 52,
+    "confidence_score": 0.68,
+    "communities": [
+      "Cireundeu"
+    ],
+    "recommendation_id": "Lakukan kajian dampak sosial-ekologi independen sebelum operasional lanjut.",
+    "recommendation_en": "Conduct independent socio-ecological impact assessment before further operations.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "9934e5af-5508-417f-8652-813df1b340b0",
+    "number": "Perpres No. 426/2025",
+    "title_id": "Percepatan PSN Pelabuhan Kontainer di Maluku",
+    "title_en": "Acceleration of National Strategic Project Pelabuhan Kontainer in Maluku",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2025-11-06",
+    "region": "Maluku",
+    "summary_id": "Proyek Strategis Nasional di Maluku berpotensi memotong wilayah hidup komunitas Tanimbar Selaru tanpa konsultasi yang memadai.",
+    "summary_en": "The National Strategic Project in Maluku may cut through the Tanimbar Selaru living space without adequate consultation.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Tanimbar Selaru"
+    ],
+    "category": "psn",
+    "risk_level": "tinggi",
+    "risk_score": 60,
+    "confidence_score": 0.7,
+    "communities": [
+      "Tanimbar Selaru"
+    ],
+    "recommendation_id": "Dorong dialog multi-pihak yang dimediasi Komnas HAM atau pemerintah daerah.",
+    "recommendation_en": "Push multi-stakeholder dialogue mediated by Komnas HAM or local government.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "288ef265-77db-4c15-878b-38e5dbf477b2",
+    "number": "SK ESDM No. 929/2024",
+    "title_id": "Penetapan Wilayah Kerja Panas Bumi Wayang Windu di Sumatera Utara",
+    "title_en": "Geothermal Working Area Designation: Wayang Windu in Sumatera Utara",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2024-10-07",
+    "region": "Sumatera Utara",
+    "summary_id": "Wilayah kerja panas bumi di Sumatera Utara berpotensi membuka akses jalan ke wilayah inti komunitas Nias yang sebelumnya terisolasi.",
+    "summary_en": "Geothermal work area in Sumatera Utara may open road access into previously isolated Nias core territory.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Nias"
+    ],
+    "category": "geothermal",
+    "risk_level": "tinggi",
+    "risk_score": 81,
+    "confidence_score": 0.78,
+    "communities": [
+      "Nias"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "bd3cf197-7a6f-42ed-819b-a162b78e6376",
+    "number": "P.42/MENLHK/2026",
+    "title_id": "Penetapan Ulang Batas Hutan Lindung Kerumutan di Sulawesi Barat",
+    "title_en": "Re-designation of Protected Forest Boundary: Kerumutan in Sulawesi Barat",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-05-05",
+    "region": "Sulawesi Barat",
+    "summary_id": "Penetapan ulang batas hutan lindung di Sulawesi Barat berdampak pada hak akses tradisional komunitas Mandar Balanipa terhadap hasil hutan.",
+    "summary_en": "Re-designation of protected forest boundaries in Sulawesi Barat impacts traditional access of the Mandar Balanipa community.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Mandar Balanipa",
+      "Mamasa"
+    ],
+    "category": "hutan_lindung",
+    "risk_level": "sedang",
+    "risk_score": 42,
+    "confidence_score": 0.86,
+    "communities": [
+      "Mandar Balanipa",
+      "Mamasa"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "38e936a2-2421-4f7c-a2dc-45aa51119be1",
+    "number": "SK.249/MENLHK/2026",
+    "title_id": "Izin Pemanfaatan Hutan untuk HTI Akasia di Lampung",
+    "title_en": "Industrial Plantation Forest Permit for Acacia in Lampung",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-02-21",
+    "region": "Lampung",
+    "summary_id": "Penetapan kawasan HTI di Lampung dapat membatasi akses tradisional komunitas Lampung Pepadun terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Lampung may restrict traditional access of the Lampung Pepadun community to non-timber forest products and sacred sites.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Lampung Pepadun"
+    ],
+    "category": "hti",
+    "risk_level": "sedang",
+    "risk_score": 52,
+    "confidence_score": 0.81,
+    "communities": [
+      "Lampung Pepadun"
+    ],
+    "recommendation_id": "Verifikasi legalitas dokumen perizinan terhadap RTRW provinsi dan kabupaten.",
+    "recommendation_en": "Verify permit legality against provincial and regency spatial plans.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "1eed04c2-75f2-43ca-ae7a-2e18643080c2",
+    "number": "SK ESDM No. 607/2026",
+    "title_id": "Izin Pinjam Pakai Kawasan Hutan untuk Pertambangan Mangan di Bangka Belitung",
+    "title_en": "Forest Area Borrow-to-Use Permit for Manganese Mining in Bangka Belitung",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-07-10",
+    "region": "Bangka Belitung",
+    "summary_id": "Regulasi ini berpotensi menyebabkan tumpang tindih dengan wilayah adat Sekak di Bangka Belitung akibat masuknya konsesi tambang ke kawasan hidup komunitas.",
+    "summary_en": "This regulation may create overlap with the Sekak customary territory in Bangka Belitung due to mining concessions entering community living space.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Sekak"
+    ],
+    "category": "tambang",
+    "risk_level": "sedang",
+    "risk_score": 48,
+    "confidence_score": 0.89,
+    "communities": [
+      "Sekak"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "012dd3e0-4238-4033-afc0-201d634afbd2",
+    "number": "P.708/MENLHK/2024",
+    "title_id": "Perubahan Fungsi Kawasan Konservasi Sebangau di Nusa Tenggara Barat",
+    "title_en": "Change of Conservation Area Function Sebangau in Nusa Tenggara Barat",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-02-03",
+    "region": "Nusa Tenggara Barat",
+    "summary_id": "Perubahan fungsi kawasan konservasi di Nusa Tenggara Barat berpengaruh pada hak kelola tradisional komunitas Sumbawa Brang Rea.",
+    "summary_en": "Conservation-area function change in Nusa Tenggara Barat affects traditional management rights of the Sumbawa Brang Rea community.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Sumbawa Brang Rea"
+    ],
+    "category": "konservasi",
+    "risk_level": "tinggi",
+    "risk_score": 68,
+    "confidence_score": 0.78,
+    "communities": [
+      "Sumbawa Brang Rea"
+    ],
+    "recommendation_id": "Lakukan kajian dampak sosial-ekologi independen sebelum operasional lanjut.",
+    "recommendation_en": "Conduct independent socio-ecological impact assessment before further operations.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "3d0cc114-a804-4b76-ada4-5487cd4ff6e4",
+    "number": "P.190/MENLHK/2026",
+    "title_id": "Perubahan Fungsi Kawasan Konservasi Bukit Tigapuluh di Jambi",
+    "title_en": "Change of Conservation Area Function Bukit Tigapuluh in Jambi",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-11-21",
+    "region": "Jambi",
+    "summary_id": "Perubahan fungsi kawasan konservasi di Jambi berpengaruh pada hak kelola tradisional komunitas Anak Dalam Cerenti.",
+    "summary_en": "Conservation-area function change in Jambi affects traditional management rights of the Anak Dalam Cerenti community.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Anak Dalam Cerenti"
+    ],
+    "category": "konservasi",
+    "risk_level": "rendah",
+    "risk_score": 23,
+    "confidence_score": 0.76,
+    "communities": [
+      "Anak Dalam Cerenti"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "890af6fb-b97a-4d61-b8a2-950a7b72c09d",
+    "number": "Perpres No. 349/2025",
+    "title_id": "Pinjam Pakai Kawasan Hutan untuk Bandar Udara Perintis di Papua Barat Daya",
+    "title_en": "Forest Area Borrow-to-Use for Regional Airport in Papua Barat Daya",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2026-04-14",
+    "region": "Papua Barat Daya",
+    "summary_id": "Pembangunan infrastruktur di Papua Barat Daya dapat melintasi wilayah komunitas Imeko Aifat, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Papua Barat Daya may cross Imeko Aifat territory, requiring coordination before operations.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Imeko Aifat"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "rendah",
+    "risk_score": 15,
+    "confidence_score": 0.62,
+    "communities": [
+      "Imeko Aifat"
+    ],
+    "recommendation_id": "Verifikasi legalitas dokumen perizinan terhadap RTRW provinsi dan kabupaten.",
+    "recommendation_en": "Verify permit legality against provincial and regency spatial plans.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "f02c3a81-ff26-44d8-9036-945cc1b947c4",
+    "number": "SK ESDM No. 625/2024",
+    "title_id": "Penetapan Wilayah Kerja Panas Bumi Suoh-Sekincau di Bangka Belitung",
+    "title_en": "Geothermal Working Area Designation: Suoh-Sekincau in Bangka Belitung",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2025-11-05",
+    "region": "Bangka Belitung",
+    "summary_id": "Wilayah kerja panas bumi di Bangka Belitung berpotensi membuka akses jalan ke wilayah inti komunitas Lom yang sebelumnya terisolasi.",
+    "summary_en": "Geothermal work area in Bangka Belitung may open road access into previously isolated Lom core territory.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Lom",
+      "Mapur"
+    ],
+    "category": "geothermal",
+    "risk_level": "sedang",
+    "risk_score": 58,
+    "confidence_score": 0.94,
+    "communities": [
+      "Lom",
+      "Mapur"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "44b17b76-db37-4147-b710-339678e7994c",
+    "number": "SK.847/MENLHK/2025",
+    "title_id": "Pemberian Hak Kelola Perhutanan Sosial bagi Komunitas Tengger di Jawa Timur",
+    "title_en": "Social Forestry Management Rights for Tengger in Jawa Timur",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-01-11",
+    "region": "Jawa Timur",
+    "summary_id": "Skema perhutanan sosial di Jawa Timur memberi peluang baru bagi komunitas Tengger untuk mengelola hutan secara legal.",
+    "summary_en": "Social forestry scheme in Jawa Timur provides new legal pathways for the Tengger community to manage forests.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Tengger",
+      "Osing Banyuwangi"
+    ],
+    "category": "perhutanan_sosial",
+    "risk_level": "sedang",
+    "risk_score": 43,
+    "confidence_score": 0.69,
+    "communities": [
+      "Tengger",
+      "Osing Banyuwangi"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "14c39818-93f3-48bd-9034-9464bdfe0be3",
+    "number": "P.42/MENLHK/2026",
+    "title_id": "Perubahan Fungsi Kawasan Hutan Lindung Tesso Nilo di Papua Selatan",
+    "title_en": "Change of Protected Forest Function: Tesso Nilo in Papua Selatan",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-12-08",
+    "region": "Papua Selatan",
+    "summary_id": "Penetapan ulang batas hutan lindung di Papua Selatan berdampak pada hak akses tradisional komunitas Auyu terhadap hasil hutan.",
+    "summary_en": "Re-designation of protected forest boundaries in Papua Selatan impacts traditional access of the Auyu community.",
+    "impact_status": "safe",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Auyu"
+    ],
+    "category": "hutan_lindung",
+    "risk_level": "rendah",
+    "risk_score": 24,
+    "confidence_score": 0.65,
+    "communities": [
+      "Auyu"
+    ],
+    "recommendation_id": "Lakukan kajian dampak sosial-ekologi independen sebelum operasional lanjut.",
+    "recommendation_en": "Conduct independent socio-ecological impact assessment before further operations.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "d4f55b69-81c0-4fec-a511-4521a5adf112",
+    "number": "Perpres No. 845/2026",
+    "title_id": "Pinjam Pakai Kawasan Hutan untuk Jalan Tol Lintas Provinsi di Nusa Tenggara Barat",
+    "title_en": "Forest Area Borrow-to-Use for Inter-province Toll Road in Nusa Tenggara Barat",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2024-08-01",
+    "region": "Nusa Tenggara Barat",
+    "summary_id": "Pembangunan infrastruktur di Nusa Tenggara Barat dapat melintasi wilayah komunitas Sasak Bayan, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Nusa Tenggara Barat may cross Sasak Bayan territory, requiring coordination before operations.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Sasak Bayan"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "sedang",
+    "risk_score": 41,
+    "confidence_score": 0.83,
+    "communities": [
+      "Sasak Bayan"
+    ],
+    "recommendation_id": "Dampingi komunitas menyiapkan paket bukti hukum dan surat keberatan resmi.",
+    "recommendation_en": "Support the community in preparing a legal evidence pack and formal objection letter.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "a5c73554-d528-4603-bf89-451a499d3160",
+    "number": "P.473/MENLHK/2024",
+    "title_id": "Penetapan Lokasi Food Estate Padi & Singkong di Jawa Barat",
+    "title_en": "Food Estate Site Designation: Rice & Cassava in Jawa Barat",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-02-05",
+    "region": "Jawa Barat",
+    "summary_id": "Pengembangan Food Estate di Jawa Barat dapat mengubah pola pertanian adat dan menggeser sistem pangan tradisional komunitas Cireundeu.",
+    "summary_en": "Food Estate development in Jawa Barat may alter customary agricultural patterns and displace traditional food systems of the Cireundeu.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Cireundeu"
+    ],
+    "category": "food_estate",
+    "risk_level": "tinggi",
+    "risk_score": 75,
+    "confidence_score": 0.92,
+    "communities": [
+      "Cireundeu"
+    ],
+    "recommendation_id": "Lakukan konsultasi FPIC (Free, Prior, Informed Consent) dengan komunitas adat terdampak.",
+    "recommendation_en": "Conduct FPIC (Free, Prior, Informed Consent) with affected indigenous communities.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "4759127f-54c2-4053-b8fc-8def2779cc8f",
+    "number": "Perpres No. 496/2026",
+    "title_id": "Penetapan Proyek Strategis Nasional PLTA Batang Toru di Nusa Tenggara Timur",
+    "title_en": "National Strategic Project Designation: PLTA Batang Toru in Nusa Tenggara Timur",
+    "institution": "Kementerian Koordinator Perekonomian",
+    "date_issued": "2025-06-30",
+    "region": "Nusa Tenggara Timur",
+    "summary_id": "Proyek Strategis Nasional di Nusa Tenggara Timur berpotensi memotong wilayah hidup komunitas Boti tanpa konsultasi yang memadai.",
+    "summary_en": "The National Strategic Project in Nusa Tenggara Timur may cut through the Boti living space without adequate consultation.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Boti"
+    ],
+    "category": "psn",
+    "risk_level": "sedang",
+    "risk_score": 45,
+    "confidence_score": 0.68,
+    "communities": [
+      "Boti"
+    ],
+    "recommendation_id": "Dampingi komunitas menyiapkan paket bukti hukum dan surat keberatan resmi.",
+    "recommendation_en": "Support the community in preparing a legal evidence pack and formal objection letter.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "2d136f16-42d2-4309-a5c9-ce5d1b368761",
+    "number": "P.740/MENLHK/2024",
+    "title_id": "Perubahan Fungsi Kawasan Konservasi Sebangau di Sulawesi Tenggara",
+    "title_en": "Change of Conservation Area Function Sebangau in Sulawesi Tenggara",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-01-09",
+    "region": "Sulawesi Tenggara",
+    "summary_id": "Perubahan fungsi kawasan konservasi di Sulawesi Tenggara berpengaruh pada hak kelola tradisional komunitas Muna Tikep.",
+    "summary_en": "Conservation-area function change in Sulawesi Tenggara affects traditional management rights of the Muna Tikep community.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Muna Tikep"
+    ],
+    "category": "konservasi",
+    "risk_level": "tinggi",
+    "risk_score": 68,
+    "confidence_score": 0.85,
+    "communities": [
+      "Muna Tikep"
+    ],
+    "recommendation_id": "Dorong dialog multi-pihak yang dimediasi Komnas HAM atau pemerintah daerah.",
+    "recommendation_en": "Push multi-stakeholder dialogue mediated by Komnas HAM or local government.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "01d567a2-e78f-41de-a986-907fc238ed47",
+    "number": "Perpres No. 816/2025",
+    "title_id": "Penetapan Proyek Strategis Nasional Bendungan Bener di Kepulauan Riau",
+    "title_en": "National Strategic Project Designation: Bendungan Bener in Kepulauan Riau",
+    "institution": "Kementerian Koordinator Perekonomian",
+    "date_issued": "2025-08-09",
+    "region": "Kepulauan Riau",
+    "summary_id": "Proyek Strategis Nasional di Kepulauan Riau berpotensi memotong wilayah hidup komunitas Orang Mantang tanpa konsultasi yang memadai.",
+    "summary_en": "The National Strategic Project in Kepulauan Riau may cut through the Orang Mantang living space without adequate consultation.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Orang Mantang"
+    ],
+    "category": "psn",
+    "risk_level": "sedang",
+    "risk_score": 40,
+    "confidence_score": 0.9,
+    "communities": [
+      "Orang Mantang"
+    ],
+    "recommendation_id": "Usulkan moratorium izin baru di wilayah tumpang tindih hingga proses verifikasi selesai.",
+    "recommendation_en": "Propose a moratorium on new permits in overlap zones until verification completes.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "3ab3cd55-118c-4812-8097-fc639794d035",
+    "number": "Perpres No. 307/2026",
+    "title_id": "Pembangunan Bandar Udara Perintis di Jawa Timur",
+    "title_en": "Regional Airport Development in Jawa Timur",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2024-06-29",
+    "region": "Jawa Timur",
+    "summary_id": "Pembangunan infrastruktur di Jawa Timur dapat melintasi wilayah komunitas Osing Banyuwangi, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Jawa Timur may cross Osing Banyuwangi territory, requiring coordination before operations.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Osing Banyuwangi"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "sedang",
+    "risk_score": 47,
+    "confidence_score": 0.78,
+    "communities": [
+      "Osing Banyuwangi"
+    ],
+    "recommendation_id": "Verifikasi legalitas dokumen perizinan terhadap RTRW provinsi dan kabupaten.",
+    "recommendation_en": "Verify permit legality against provincial and regency spatial plans.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "9bff7c4e-b489-4feb-b2da-671545207ddc",
+    "number": "P.662/MENLHK/2026",
+    "title_id": "Perubahan Fungsi Kawasan Hutan Lindung Bukit Tigapuluh di Jawa Barat",
+    "title_en": "Change of Protected Forest Function: Bukit Tigapuluh in Jawa Barat",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-04-26",
+    "region": "Jawa Barat",
+    "summary_id": "Penetapan ulang batas hutan lindung di Jawa Barat berdampak pada hak akses tradisional komunitas Kasepuhan Sinar Resmi terhadap hasil hutan.",
+    "summary_en": "Re-designation of protected forest boundaries in Jawa Barat impacts traditional access of the Kasepuhan Sinar Resmi community.",
+    "impact_status": "safe",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Kasepuhan Sinar Resmi"
+    ],
+    "category": "hutan_lindung",
+    "risk_level": "rendah",
+    "risk_score": 17,
+    "confidence_score": 0.71,
+    "communities": [
+      "Kasepuhan Sinar Resmi"
+    ],
+    "recommendation_id": "Verifikasi legalitas dokumen perizinan terhadap RTRW provinsi dan kabupaten.",
+    "recommendation_en": "Verify permit legality against provincial and regency spatial plans.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "d9f8f0c9-f96f-401c-8cbc-213fecd169c5",
+    "number": "SK.691/MENLHK/2026",
+    "title_id": "Perpanjangan Izin Usaha Pemanfaatan Hutan Tanaman Industri di Papua Barat Daya",
+    "title_en": "Extension of Industrial Plantation Forest Permit in Papua Barat Daya",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-04-25",
+    "region": "Papua Barat Daya",
+    "summary_id": "Penetapan kawasan HTI di Papua Barat Daya dapat membatasi akses tradisional komunitas Tehit Sawiat terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Papua Barat Daya may restrict traditional access of the Tehit Sawiat community to non-timber forest products and sacred sites.",
+    "impact_status": "safe",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Tehit Sawiat"
+    ],
+    "category": "hti",
+    "risk_level": "rendah",
+    "risk_score": 13,
+    "confidence_score": 0.79,
+    "communities": [
+      "Tehit Sawiat"
+    ],
+    "recommendation_id": "Dampingi komunitas menyiapkan paket bukti hukum dan surat keberatan resmi.",
+    "recommendation_en": "Support the community in preparing a legal evidence pack and formal objection letter.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "c8ce13a9-3d80-40dd-87b1-8649add46f6e",
+    "number": "SK.119/MENLHK/2025",
+    "title_id": "Pemberian Hak Kelola Perhutanan Sosial bagi Komunitas Tamiang di Aceh",
+    "title_en": "Social Forestry Management Rights for Tamiang in Aceh",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-02-26",
+    "region": "Aceh",
+    "summary_id": "Skema perhutanan sosial di Aceh memberi peluang baru bagi komunitas Tamiang untuk mengelola hutan secara legal.",
+    "summary_en": "Social forestry scheme in Aceh provides new legal pathways for the Tamiang community to manage forests.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Tamiang"
+    ],
+    "category": "perhutanan_sosial",
+    "risk_level": "sedang",
+    "risk_score": 31,
+    "confidence_score": 0.77,
+    "communities": [
+      "Tamiang"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "9878ebdf-ec24-4941-9ccc-fab9190f0e2e",
+    "number": "P.195/MENLHK/2025",
+    "title_id": "Pengembangan Food Estate Jagung di Sulawesi Utara",
+    "title_en": "Food Estate Development for Corn in Sulawesi Utara",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-01-31",
+    "region": "Sulawesi Utara",
+    "summary_id": "Pengembangan Food Estate di Sulawesi Utara dapat mengubah pola pertanian adat dan menggeser sistem pangan tradisional komunitas Bolaang Mongondow.",
+    "summary_en": "Food Estate development in Sulawesi Utara may alter customary agricultural patterns and displace traditional food systems of the Bolaang Mongondow.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Bolaang Mongondow",
+      "Sangihe"
+    ],
+    "category": "food_estate",
+    "risk_level": "sedang",
+    "risk_score": 31,
+    "confidence_score": 0.92,
+    "communities": [
+      "Bolaang Mongondow",
+      "Sangihe"
+    ],
+    "recommendation_id": "Lakukan kajian dampak sosial-ekologi independen sebelum operasional lanjut.",
+    "recommendation_en": "Conduct independent socio-ecological impact assessment before further operations.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "4a3c3b15-bf02-47b6-9c44-86666be95c11",
+    "number": "P.809/MENLHK/2025",
+    "title_id": "Penetapan Lokasi Food Estate Tebu di Sumatera Utara",
+    "title_en": "Food Estate Site Designation: Sugarcane in Sumatera Utara",
+    "institution": "Kementerian Pertanian",
+    "date_issued": "2025-10-05",
+    "region": "Sumatera Utara",
+    "summary_id": "Pengembangan Food Estate di Sumatera Utara dapat mengubah pola pertanian adat dan menggeser sistem pangan tradisional komunitas Batak Toba.",
+    "summary_en": "Food Estate development in Sumatera Utara may alter customary agricultural patterns and displace traditional food systems of the Batak Toba.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Batak Toba"
+    ],
+    "category": "food_estate",
+    "risk_level": "rendah",
+    "risk_score": 25,
+    "confidence_score": 0.88,
+    "communities": [
+      "Batak Toba"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "1a060a93-1b48-4a3e-83d2-d54de8ddd24f",
+    "number": "SK.503/MENLHK/2024",
+    "title_id": "Perpanjangan Izin Usaha Pemanfaatan Hutan Tanaman Industri di Bali",
+    "title_en": "Extension of Industrial Plantation Forest Permit in Bali",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-03-08",
+    "region": "Bali",
+    "summary_id": "Penetapan kawasan HTI di Bali dapat membatasi akses tradisional komunitas Tenganan Pegringsingan terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Bali may restrict traditional access of the Tenganan Pegringsingan community to non-timber forest products and sacred sites.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Tenganan Pegringsingan"
+    ],
+    "category": "hti",
+    "risk_level": "sedang",
+    "risk_score": 52,
+    "confidence_score": 0.81,
+    "communities": [
+      "Tenganan Pegringsingan"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "b14bce28-a496-416a-8d3b-2483a4704940",
+    "number": "SK.682/MENLHK/2025",
+    "title_id": "Izin Pemanfaatan Hutan untuk HTI Eukaliptus di Lampung",
+    "title_en": "Industrial Plantation Forest Permit for Eucalyptus in Lampung",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-09-17",
+    "region": "Lampung",
+    "summary_id": "Penetapan kawasan HTI di Lampung dapat membatasi akses tradisional komunitas Krui terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Lampung may restrict traditional access of the Krui community to non-timber forest products and sacred sites.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Krui"
+    ],
+    "category": "hti",
+    "risk_level": "sedang",
+    "risk_score": 44,
+    "confidence_score": 0.65,
+    "communities": [
+      "Krui"
+    ],
+    "recommendation_id": "Usulkan moratorium izin baru di wilayah tumpang tindih hingga proses verifikasi selesai.",
+    "recommendation_en": "Propose a moratorium on new permits in overlap zones until verification completes.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "3970d817-73a7-4980-865a-25db03a1c65d",
+    "number": "SK.230/MENLHK/2025",
+    "title_id": "Perubahan Peruntukan Kawasan Hutan untuk Sawit di Maluku",
+    "title_en": "Change of Forest Area Designation for Palm Oil in Maluku",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-02-15",
+    "region": "Maluku",
+    "summary_id": "Pembukaan perkebunan sawit di Maluku berpotensi menggeser wilayah adat Nuaulu dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in Maluku may displace the Nuaulu customary territory and reduce community forest cover.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Nuaulu"
+    ],
+    "category": "sawit",
+    "risk_level": "tinggi",
+    "risk_score": 62,
+    "confidence_score": 0.81,
+    "communities": [
+      "Nuaulu"
+    ],
+    "recommendation_id": "Usulkan moratorium izin baru di wilayah tumpang tindih hingga proses verifikasi selesai.",
+    "recommendation_en": "Propose a moratorium on new permits in overlap zones until verification completes.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "0039a0cf-b3ab-4716-81f2-34c907187c34",
+    "number": "Perpres No. 350/2025",
+    "title_id": "Pembangunan Bandar Udara Perintis di Bangka Belitung",
+    "title_en": "Regional Airport Development in Bangka Belitung",
+    "institution": "Pemprov terkait",
+    "date_issued": "2025-05-23",
+    "region": "Bangka Belitung",
+    "summary_id": "Pembangunan infrastruktur di Bangka Belitung dapat melintasi wilayah komunitas Mapur, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Bangka Belitung may cross Mapur territory, requiring coordination before operations.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Mapur"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "sedang",
+    "risk_score": 33,
+    "confidence_score": 0.91,
+    "communities": [
+      "Mapur"
+    ],
+    "recommendation_id": "Verifikasi legalitas dokumen perizinan terhadap RTRW provinsi dan kabupaten.",
+    "recommendation_en": "Verify permit legality against provincial and regency spatial plans.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "acc118a8-8e4c-47c7-b667-2b67ffdd3775",
+    "number": "SK.47/MENLHK/2025",
+    "title_id": "Perpanjangan Izin Usaha Pemanfaatan Hutan Tanaman Industri di Jambi",
+    "title_en": "Extension of Industrial Plantation Forest Permit in Jambi",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-10-23",
+    "region": "Jambi",
+    "summary_id": "Penetapan kawasan HTI di Jambi dapat membatasi akses tradisional komunitas Orang Rimba (SAD) terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Jambi may restrict traditional access of the Orang Rimba (SAD) community to non-timber forest products and sacred sites.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Orang Rimba (SAD)"
+    ],
+    "category": "hti",
+    "risk_level": "rendah",
+    "risk_score": 22,
+    "confidence_score": 0.81,
+    "communities": [
+      "Orang Rimba (SAD)"
+    ],
+    "recommendation_id": "Dorong dialog multi-pihak yang dimediasi Komnas HAM atau pemerintah daerah.",
+    "recommendation_en": "Push multi-stakeholder dialogue mediated by Komnas HAM or local government.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "bd37a592-a54e-4588-a873-b3844133d4bf",
+    "number": "Perpres No. 440/2026",
+    "title_id": "Penetapan Proyek Strategis Nasional Jalan Trans-Papua di Aceh",
+    "title_en": "National Strategic Project Designation: Jalan Trans-Papua in Aceh",
+    "institution": "Kementerian Koordinator Perekonomian",
+    "date_issued": "2024-08-19",
+    "region": "Aceh",
+    "summary_id": "Proyek Strategis Nasional di Aceh berpotensi memotong wilayah hidup komunitas Alas tanpa konsultasi yang memadai.",
+    "summary_en": "The National Strategic Project in Aceh may cut through the Alas living space without adequate consultation.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Alas",
+      "Aneuk Jamee"
+    ],
+    "category": "psn",
+    "risk_level": "kritis",
+    "risk_score": 97,
+    "confidence_score": 0.86,
+    "communities": [
+      "Alas",
+      "Aneuk Jamee"
+    ],
+    "recommendation_id": "Dorong dialog multi-pihak yang dimediasi Komnas HAM atau pemerintah daerah.",
+    "recommendation_en": "Push multi-stakeholder dialogue mediated by Komnas HAM or local government.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "542d2afc-50a1-4d3b-bdf4-cee0b32717d3",
+    "number": "Perpres No. 982/2026",
+    "title_id": "Pinjam Pakai Kawasan Hutan untuk Saluran Irigasi Primer di Kalimantan Tengah",
+    "title_en": "Forest Area Borrow-to-Use for Primary Irrigation Canal in Kalimantan Tengah",
+    "institution": "Pemprov terkait",
+    "date_issued": "2025-10-07",
+    "region": "Kalimantan Tengah",
+    "summary_id": "Pembangunan infrastruktur di Kalimantan Tengah dapat melintasi wilayah komunitas Dayak Bakumpai, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Kalimantan Tengah may cross Dayak Bakumpai territory, requiring coordination before operations.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Dayak Bakumpai",
+      "Dayak Maanyan"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "sedang",
+    "risk_score": 35,
+    "confidence_score": 0.79,
+    "communities": [
+      "Dayak Bakumpai",
+      "Dayak Maanyan"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "c9d69add-2017-4e36-a6c1-39ec1d2b7baa",
+    "number": "SK.318/MENLHK/2024",
+    "title_id": "Perpanjangan Izin Usaha Pemanfaatan Hutan Tanaman Industri di Lampung",
+    "title_en": "Extension of Industrial Plantation Forest Permit in Lampung",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-02-18",
+    "region": "Lampung",
+    "summary_id": "Penetapan kawasan HTI di Lampung dapat membatasi akses tradisional komunitas Krui terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Lampung may restrict traditional access of the Krui community to non-timber forest products and sacred sites.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Krui",
+      "Lampung Saibatin"
+    ],
+    "category": "hti",
+    "risk_level": "kritis",
+    "risk_score": 92,
+    "confidence_score": 0.9,
+    "communities": [
+      "Krui",
+      "Lampung Saibatin"
+    ],
+    "recommendation_id": "Lakukan kajian dampak sosial-ekologi independen sebelum operasional lanjut.",
+    "recommendation_en": "Conduct independent socio-ecological impact assessment before further operations.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "165661a8-65d9-401c-b6cf-22bc27b41cf9",
+    "number": "Perpres No. 625/2026",
+    "title_id": "Pembangunan Bandar Udara Perintis di Kepulauan Riau",
+    "title_en": "Regional Airport Development in Kepulauan Riau",
+    "institution": "Pemprov terkait",
+    "date_issued": "2025-05-29",
+    "region": "Kepulauan Riau",
+    "summary_id": "Pembangunan infrastruktur di Kepulauan Riau dapat melintasi wilayah komunitas Suku Laut, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Kepulauan Riau may cross Suku Laut territory, requiring coordination before operations.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Suku Laut"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "tinggi",
+    "risk_score": 76,
+    "confidence_score": 0.72,
+    "communities": [
+      "Suku Laut"
+    ],
+    "recommendation_id": "Usulkan moratorium izin baru di wilayah tumpang tindih hingga proses verifikasi selesai.",
+    "recommendation_en": "Propose a moratorium on new permits in overlap zones until verification completes.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "0631adc7-13d8-4c16-a0b8-4d8c527eabb0",
+    "number": "Perpres No. 687/2024",
+    "title_id": "Pinjam Pakai Kawasan Hutan untuk Jaringan Transmisi Listrik 500 kV di Sulawesi Tengah",
+    "title_en": "Forest Area Borrow-to-Use for 500 kV Power Transmission Line in Sulawesi Tengah",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2024-08-13",
+    "region": "Sulawesi Tengah",
+    "summary_id": "Pembangunan infrastruktur di Sulawesi Tengah dapat melintasi wilayah komunitas Pamona Poso, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Sulawesi Tengah may cross Pamona Poso territory, requiring coordination before operations.",
+    "impact_status": "safe",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Pamona Poso"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "rendah",
+    "risk_score": 11,
+    "confidence_score": 0.71,
+    "communities": [
+      "Pamona Poso"
+    ],
+    "recommendation_id": "Dorong dialog multi-pihak yang dimediasi Komnas HAM atau pemerintah daerah.",
+    "recommendation_en": "Push multi-stakeholder dialogue mediated by Komnas HAM or local government.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "9b76272c-f15c-4033-a15a-34e1b3348c4a",
+    "number": "SK.421/MENLHK/2024",
+    "title_id": "Izin Pemanfaatan Hutan untuk HTI Eukaliptus di Kalimantan Utara",
+    "title_en": "Industrial Plantation Forest Permit for Eucalyptus in Kalimantan Utara",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-05-28",
+    "region": "Kalimantan Utara",
+    "summary_id": "Penetapan kawasan HTI di Kalimantan Utara dapat membatasi akses tradisional komunitas Dayak Berusu terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Kalimantan Utara may restrict traditional access of the Dayak Berusu community to non-timber forest products and sacred sites.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Dayak Berusu"
+    ],
+    "category": "hti",
+    "risk_level": "tinggi",
+    "risk_score": 62,
+    "confidence_score": 0.71,
+    "communities": [
+      "Dayak Berusu"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "0a685c06-dbe4-4fd5-adc6-c0605fc5b36c",
+    "number": "P.292/MENLHK/2024",
+    "title_id": "Penetapan Ulang Batas Hutan Lindung Meratus di Nusa Tenggara Timur",
+    "title_en": "Re-designation of Protected Forest Boundary: Meratus in Nusa Tenggara Timur",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-03-12",
+    "region": "Nusa Tenggara Timur",
+    "summary_id": "Penetapan ulang batas hutan lindung di Nusa Tenggara Timur berdampak pada hak akses tradisional komunitas Lamaholot Lewotobi terhadap hasil hutan.",
+    "summary_en": "Re-designation of protected forest boundaries in Nusa Tenggara Timur impacts traditional access of the Lamaholot Lewotobi community.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Lamaholot Lewotobi",
+      "Boti"
+    ],
+    "category": "hutan_lindung",
+    "risk_level": "rendah",
+    "risk_score": 14,
+    "confidence_score": 0.77,
+    "communities": [
+      "Lamaholot Lewotobi",
+      "Boti"
+    ],
+    "recommendation_id": "Lakukan konsultasi FPIC (Free, Prior, Informed Consent) dengan komunitas adat terdampak.",
+    "recommendation_en": "Conduct FPIC (Free, Prior, Informed Consent) with affected indigenous communities.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "8659584c-7985-4d9d-89e9-e1c822a88cf2",
+    "number": "P.852/MENLHK/2026",
+    "title_id": "Penetapan Perluasan Kawasan Konservasi Kayan Mentarang di Sulawesi Barat",
+    "title_en": "Designation of Kayan Mentarang Conservation Area Extension in Sulawesi Barat",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-01-14",
+    "region": "Sulawesi Barat",
+    "summary_id": "Perubahan fungsi kawasan konservasi di Sulawesi Barat berpengaruh pada hak kelola tradisional komunitas Mamasa.",
+    "summary_en": "Conservation-area function change in Sulawesi Barat affects traditional management rights of the Mamasa community.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Mamasa"
+    ],
+    "category": "konservasi",
+    "risk_level": "kritis",
+    "risk_score": 93,
+    "confidence_score": 0.7,
+    "communities": [
+      "Mamasa"
+    ],
+    "recommendation_id": "Lakukan kajian dampak sosial-ekologi independen sebelum operasional lanjut.",
+    "recommendation_en": "Conduct independent socio-ecological impact assessment before further operations.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "5560cdec-a5e3-46ea-8d03-4cc9a506ed5e",
+    "number": "Perpres No. 630/2024",
+    "title_id": "Percepatan PSN Kawasan Ekonomi Khusus di Jambi",
+    "title_en": "Acceleration of National Strategic Project Kawasan Ekonomi Khusus in Jambi",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2025-10-02",
+    "region": "Jambi",
+    "summary_id": "Proyek Strategis Nasional di Jambi berpotensi memotong wilayah hidup komunitas Orang Rimba (SAD) tanpa konsultasi yang memadai.",
+    "summary_en": "The National Strategic Project in Jambi may cut through the Orang Rimba (SAD) living space without adequate consultation.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Orang Rimba (SAD)"
+    ],
+    "category": "psn",
+    "risk_level": "rendah",
+    "risk_score": 17,
+    "confidence_score": 0.64,
+    "communities": [
+      "Orang Rimba (SAD)"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "607e1e3e-3f4e-4253-bc96-550fd6062b31",
+    "number": "SK.180/MENLHK/2026",
+    "title_id": "Pelepasan Kawasan Hutan untuk Perkebunan Sawit PT Sawit Sejahtera di Jambi",
+    "title_en": "Forest Area Release for Palm Oil Plantation PT Sawit Sejahtera in Jambi",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2024-07-04",
+    "region": "Jambi",
+    "summary_id": "Pembukaan perkebunan sawit di Jambi berpotensi menggeser wilayah adat Anak Dalam Cerenti dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in Jambi may displace the Anak Dalam Cerenti customary territory and reduce community forest cover.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Anak Dalam Cerenti"
+    ],
+    "category": "sawit",
+    "risk_level": "kritis",
+    "risk_score": 93,
+    "confidence_score": 0.7,
+    "communities": [
+      "Anak Dalam Cerenti"
+    ],
+    "recommendation_id": "Lakukan kajian dampak sosial-ekologi independen sebelum operasional lanjut.",
+    "recommendation_en": "Conduct independent socio-ecological impact assessment before further operations.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "319a6535-c3a6-4d46-a1d8-7306dc7f14ba",
+    "number": "SK.911/MENLHK/2025",
+    "title_id": "Perubahan Peruntukan Kawasan Hutan untuk Sawit di DKI Jakarta",
+    "title_en": "Change of Forest Area Designation for Palm Oil in DKI Jakarta",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-04-22",
+    "region": "DKI Jakarta",
+    "summary_id": "Pembukaan perkebunan sawit di DKI Jakarta berpotensi menggeser wilayah adat Betawi Setu Babakan dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in DKI Jakarta may displace the Betawi Setu Babakan customary territory and reduce community forest cover.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Betawi Setu Babakan"
+    ],
+    "category": "sawit",
+    "risk_level": "sedang",
+    "risk_score": 29,
+    "confidence_score": 0.72,
+    "communities": [
+      "Betawi Setu Babakan"
+    ],
+    "recommendation_id": "Lakukan kajian dampak sosial-ekologi independen sebelum operasional lanjut.",
+    "recommendation_en": "Conduct independent socio-ecological impact assessment before further operations.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "99d848ce-35e1-44b0-b148-b3b5f2980ea3",
+    "number": "P.891/MENLHK/2026",
+    "title_id": "Penetapan Ulang Batas Hutan Lindung Bukit Duabelas di Kalimantan Selatan",
+    "title_en": "Re-designation of Protected Forest Boundary: Bukit Duabelas in Kalimantan Selatan",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-06-09",
+    "region": "Kalimantan Selatan",
+    "summary_id": "Penetapan ulang batas hutan lindung di Kalimantan Selatan berdampak pada hak akses tradisional komunitas Dayak Meratus Loksado terhadap hasil hutan.",
+    "summary_en": "Re-designation of protected forest boundaries in Kalimantan Selatan impacts traditional access of the Dayak Meratus Loksado community.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Dayak Meratus Loksado"
+    ],
+    "category": "hutan_lindung",
+    "risk_level": "tinggi",
+    "risk_score": 71,
+    "confidence_score": 0.79,
+    "communities": [
+      "Dayak Meratus Loksado"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "55aec1e1-d317-4f97-89cd-f8ecbad1294d",
+    "number": "SK ESDM No. 543/2024",
+    "title_id": "Penetapan Wilayah Kerja Panas Bumi Sokoria di Riau",
+    "title_en": "Geothermal Working Area Designation: Sokoria in Riau",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2025-04-24",
+    "region": "Riau",
+    "summary_id": "Wilayah kerja panas bumi di Riau berpotensi membuka akses jalan ke wilayah inti komunitas Sakai yang sebelumnya terisolasi.",
+    "summary_en": "Geothermal work area in Riau may open road access into previously isolated Sakai core territory.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Sakai"
+    ],
+    "category": "geothermal",
+    "risk_level": "rendah",
+    "risk_score": 27,
+    "confidence_score": 0.66,
+    "communities": [
+      "Sakai"
+    ],
+    "recommendation_id": "Usulkan moratorium izin baru di wilayah tumpang tindih hingga proses verifikasi selesai.",
+    "recommendation_en": "Propose a moratorium on new permits in overlap zones until verification completes.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "5f375448-e071-4019-91a7-78fbde494c8a",
+    "number": "SK.67/MENLHK/2026",
+    "title_id": "Perpanjangan Izin Usaha Pemanfaatan Hutan Tanaman Industri di Bangka Belitung",
+    "title_en": "Extension of Industrial Plantation Forest Permit in Bangka Belitung",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2024-11-19",
+    "region": "Bangka Belitung",
+    "summary_id": "Penetapan kawasan HTI di Bangka Belitung dapat membatasi akses tradisional komunitas Lom terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Bangka Belitung may restrict traditional access of the Lom community to non-timber forest products and sacred sites.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Lom",
+      "Sekak"
+    ],
+    "category": "hti",
+    "risk_level": "sedang",
+    "risk_score": 50,
+    "confidence_score": 0.94,
+    "communities": [
+      "Lom",
+      "Sekak"
+    ],
+    "recommendation_id": "Dampingi komunitas menyiapkan paket bukti hukum dan surat keberatan resmi.",
+    "recommendation_en": "Support the community in preparing a legal evidence pack and formal objection letter.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "63ef488f-5eae-4930-a519-fd1ba4f1e728",
+    "number": "SK.76/MENLHK/2026",
+    "title_id": "Penetapan Hutan Adat Komunitas Betawi Setu Babakan di DKI Jakarta",
+    "title_en": "Designation of Betawi Setu Babakan Customary Forest in DKI Jakarta",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-03-02",
+    "region": "DKI Jakarta",
+    "summary_id": "Skema perhutanan sosial di DKI Jakarta memberi peluang baru bagi komunitas Betawi Setu Babakan untuk mengelola hutan secara legal.",
+    "summary_en": "Social forestry scheme in DKI Jakarta provides new legal pathways for the Betawi Setu Babakan community to manage forests.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Betawi Setu Babakan"
+    ],
+    "category": "perhutanan_sosial",
+    "risk_level": "sedang",
+    "risk_score": 39,
+    "confidence_score": 0.77,
+    "communities": [
+      "Betawi Setu Babakan"
+    ],
+    "recommendation_id": "Lakukan kajian dampak sosial-ekologi independen sebelum operasional lanjut.",
+    "recommendation_en": "Conduct independent socio-ecological impact assessment before further operations.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "ea365d70-9de7-4587-98f9-e94719fd2dc2",
+    "number": "SK.515/MENLHK/2024",
+    "title_id": "Izin Pemanfaatan Hutan untuk HTI Akasia di Bengkulu",
+    "title_en": "Industrial Plantation Forest Permit for Acacia in Bengkulu",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2024-08-18",
+    "region": "Bengkulu",
+    "summary_id": "Penetapan kawasan HTI di Bengkulu dapat membatasi akses tradisional komunitas Lembak terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Bengkulu may restrict traditional access of the Lembak community to non-timber forest products and sacred sites.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Lembak"
+    ],
+    "category": "hti",
+    "risk_level": "rendah",
+    "risk_score": 17,
+    "confidence_score": 0.92,
+    "communities": [
+      "Lembak"
+    ],
+    "recommendation_id": "Lakukan konsultasi FPIC (Free, Prior, Informed Consent) dengan komunitas adat terdampak.",
+    "recommendation_en": "Conduct FPIC (Free, Prior, Informed Consent) with affected indigenous communities.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "fdbcee4c-3cbc-48fc-963a-16b8aa171d5f",
+    "number": "Perpres No. 451/2024",
+    "title_id": "Pembangunan Jaringan Transmisi Listrik 500 kV di Lampung",
+    "title_en": "500 kV Power Transmission Line Development in Lampung",
+    "institution": "Pemprov terkait",
+    "date_issued": "2025-01-26",
+    "region": "Lampung",
+    "summary_id": "Pembangunan infrastruktur di Lampung dapat melintasi wilayah komunitas Lampung Pepadun, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Lampung may cross Lampung Pepadun territory, requiring coordination before operations.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Lampung Pepadun",
+      "Tulang Bawang"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "sedang",
+    "risk_score": 29,
+    "confidence_score": 0.83,
+    "communities": [
+      "Lampung Pepadun",
+      "Tulang Bawang"
+    ],
+    "recommendation_id": "Lakukan kajian dampak sosial-ekologi independen sebelum operasional lanjut.",
+    "recommendation_en": "Conduct independent socio-ecological impact assessment before further operations.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "8907a65b-6a88-436e-b28e-550898dd25c7",
+    "number": "P.528/MENLHK/2025",
+    "title_id": "Pengembangan Food Estate Jagung di Kalimantan Tengah",
+    "title_en": "Food Estate Development for Corn in Kalimantan Tengah",
+    "institution": "Kementerian Pertanian",
+    "date_issued": "2025-02-12",
+    "region": "Kalimantan Tengah",
+    "summary_id": "Pengembangan Food Estate di Kalimantan Tengah dapat mengubah pola pertanian adat dan menggeser sistem pangan tradisional komunitas Dayak Maanyan.",
+    "summary_en": "Food Estate development in Kalimantan Tengah may alter customary agricultural patterns and displace traditional food systems of the Dayak Maanyan.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Dayak Maanyan"
+    ],
+    "category": "food_estate",
+    "risk_level": "tinggi",
+    "risk_score": 72,
+    "confidence_score": 0.71,
+    "communities": [
+      "Dayak Maanyan"
+    ],
+    "recommendation_id": "Lakukan kajian dampak sosial-ekologi independen sebelum operasional lanjut.",
+    "recommendation_en": "Conduct independent socio-ecological impact assessment before further operations.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "d71ef49d-53e1-45e0-8cd7-e9d88f438bff",
+    "number": "SK ESDM No. 584/2024",
+    "title_id": "Penetapan Wilayah Kerja Panas Bumi Lahendong di Sumatera Utara",
+    "title_en": "Geothermal Working Area Designation: Lahendong in Sumatera Utara",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2025-05-30",
+    "region": "Sumatera Utara",
+    "summary_id": "Wilayah kerja panas bumi di Sumatera Utara berpotensi membuka akses jalan ke wilayah inti komunitas Batak Toba yang sebelumnya terisolasi.",
+    "summary_en": "Geothermal work area in Sumatera Utara may open road access into previously isolated Batak Toba core territory.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Batak Toba",
+      "Nias"
+    ],
+    "category": "geothermal",
+    "risk_level": "sedang",
+    "risk_score": 29,
+    "confidence_score": 0.81,
+    "communities": [
+      "Batak Toba",
+      "Nias"
+    ],
+    "recommendation_id": "Dampingi komunitas menyiapkan paket bukti hukum dan surat keberatan resmi.",
+    "recommendation_en": "Support the community in preparing a legal evidence pack and formal objection letter.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "9d8b8af9-d1cb-4e90-8c1e-4edc422424c0",
+    "number": "Perpres No. 167/2025",
+    "title_id": "Percepatan PSN Kawasan Ekonomi Khusus di Sulawesi Selatan",
+    "title_en": "Acceleration of National Strategic Project Kawasan Ekonomi Khusus in Sulawesi Selatan",
+    "institution": "Kementerian Koordinator Perekonomian",
+    "date_issued": "2024-09-12",
+    "region": "Sulawesi Selatan",
+    "summary_id": "Proyek Strategis Nasional di Sulawesi Selatan berpotensi memotong wilayah hidup komunitas Bajau Bira tanpa konsultasi yang memadai.",
+    "summary_en": "The National Strategic Project in Sulawesi Selatan may cut through the Bajau Bira living space without adequate consultation.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Bajau Bira"
+    ],
+    "category": "psn",
+    "risk_level": "tinggi",
+    "risk_score": 68,
+    "confidence_score": 0.86,
+    "communities": [
+      "Bajau Bira"
+    ],
+    "recommendation_id": "Verifikasi legalitas dokumen perizinan terhadap RTRW provinsi dan kabupaten.",
+    "recommendation_en": "Verify permit legality against provincial and regency spatial plans.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "bbe5844d-c668-479d-ada6-5e8ee55df9b6",
+    "number": "Perpres No. 587/2024",
+    "title_id": "Pinjam Pakai Kawasan Hutan untuk Jaringan Transmisi Listrik 500 kV di Papua",
+    "title_en": "Forest Area Borrow-to-Use for 500 kV Power Transmission Line in Papua",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2025-11-22",
+    "region": "Papua",
+    "summary_id": "Pembangunan infrastruktur di Papua dapat melintasi wilayah komunitas Mee Paniai, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Papua may cross Mee Paniai territory, requiring coordination before operations.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Mee Paniai"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "rendah",
+    "risk_score": 11,
+    "confidence_score": 0.87,
+    "communities": [
+      "Mee Paniai"
+    ],
+    "recommendation_id": "Lakukan mediasi komunitas dan dialog multi-pihak sebelum operasional dimulai.",
+    "recommendation_en": "Initiate community mediation and multi-stakeholder dialogue before operations begin.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "dcc95e9d-80ec-4caf-b11c-1292dc2a09b4",
+    "number": "P.572/MENLHK/2025",
+    "title_id": "Perubahan Fungsi Kawasan Konservasi Sebangau di Lampung",
+    "title_en": "Change of Conservation Area Function Sebangau in Lampung",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-08-04",
+    "region": "Lampung",
+    "summary_id": "Perubahan fungsi kawasan konservasi di Lampung berpengaruh pada hak kelola tradisional komunitas Tulang Bawang.",
+    "summary_en": "Conservation-area function change in Lampung affects traditional management rights of the Tulang Bawang community.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Tulang Bawang"
+    ],
+    "category": "konservasi",
+    "risk_level": "sedang",
+    "risk_score": 34,
+    "confidence_score": 0.94,
+    "communities": [
+      "Tulang Bawang"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "d72c309c-fbfd-47b3-92cd-20c23c7bbace",
+    "number": "P.491/MENLHK/2026",
+    "title_id": "Perubahan Fungsi Kawasan Konservasi Kerumutan di Nusa Tenggara Timur",
+    "title_en": "Change of Conservation Area Function Kerumutan in Nusa Tenggara Timur",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-10-29",
+    "region": "Nusa Tenggara Timur",
+    "summary_id": "Perubahan fungsi kawasan konservasi di Nusa Tenggara Timur berpengaruh pada hak kelola tradisional komunitas Helong.",
+    "summary_en": "Conservation-area function change in Nusa Tenggara Timur affects traditional management rights of the Helong community.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Helong"
+    ],
+    "category": "konservasi",
+    "risk_level": "tinggi",
+    "risk_score": 81,
+    "confidence_score": 0.71,
+    "communities": [
+      "Helong"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "11549772-6bd8-4231-aae9-5a30f450589f",
+    "number": "Perpres No. 329/2025",
+    "title_id": "Percepatan PSN Kawasan Industri Hijau di Papua Pegunungan",
+    "title_en": "Acceleration of National Strategic Project Kawasan Industri Hijau in Papua Pegunungan",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2024-08-13",
+    "region": "Papua Pegunungan",
+    "summary_id": "Proyek Strategis Nasional di Papua Pegunungan berpotensi memotong wilayah hidup komunitas Walak tanpa konsultasi yang memadai.",
+    "summary_en": "The National Strategic Project in Papua Pegunungan may cut through the Walak living space without adequate consultation.",
+    "impact_status": "safe",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Walak"
+    ],
+    "category": "psn",
+    "risk_level": "rendah",
+    "risk_score": 24,
+    "confidence_score": 0.64,
+    "communities": [
+      "Walak"
+    ],
+    "recommendation_id": "Lakukan mediasi komunitas dan dialog multi-pihak sebelum operasional dimulai.",
+    "recommendation_en": "Initiate community mediation and multi-stakeholder dialogue before operations begin.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "c37e98f3-06e6-4b4b-b0b1-b55cfbf676c3",
+    "number": "SK.280/MENLHK/2025",
+    "title_id": "Pemberian Hak Kelola Perhutanan Sosial bagi Komunitas Mandobo Boven Digoel di Papua Selatan",
+    "title_en": "Social Forestry Management Rights for Mandobo Boven Digoel in Papua Selatan",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-11-20",
+    "region": "Papua Selatan",
+    "summary_id": "Skema perhutanan sosial di Papua Selatan memberi peluang baru bagi komunitas Mandobo Boven Digoel untuk mengelola hutan secara legal.",
+    "summary_en": "Social forestry scheme in Papua Selatan provides new legal pathways for the Mandobo Boven Digoel community to manage forests.",
+    "impact_status": "safe",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Mandobo Boven Digoel"
+    ],
+    "category": "perhutanan_sosial",
+    "risk_level": "rendah",
+    "risk_score": 9,
+    "confidence_score": 0.68,
+    "communities": [
+      "Mandobo Boven Digoel"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "d2adcac8-8959-4202-b0b1-0153978a5326",
+    "number": "SK.458/MENLHK/2024",
+    "title_id": "Perpanjangan Izin Usaha Pemanfaatan Hutan Tanaman Industri di Sulawesi Tenggara",
+    "title_en": "Extension of Industrial Plantation Forest Permit in Sulawesi Tenggara",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-09-05",
+    "region": "Sulawesi Tenggara",
+    "summary_id": "Penetapan kawasan HTI di Sulawesi Tenggara dapat membatasi akses tradisional komunitas Muna Tikep terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Sulawesi Tenggara may restrict traditional access of the Muna Tikep community to non-timber forest products and sacred sites.",
+    "impact_status": "safe",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Muna Tikep"
+    ],
+    "category": "hti",
+    "risk_level": "rendah",
+    "risk_score": 13,
+    "confidence_score": 0.88,
+    "communities": [
+      "Muna Tikep"
+    ],
+    "recommendation_id": "Usulkan moratorium izin baru di wilayah tumpang tindih hingga proses verifikasi selesai.",
+    "recommendation_en": "Propose a moratorium on new permits in overlap zones until verification completes.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "c08e6898-c993-4ba2-95a5-1dc15c471132",
+    "number": "Perpres No. 935/2026",
+    "title_id": "Penetapan Proyek Strategis Nasional Jalan Lintas Selatan di Papua Selatan",
+    "title_en": "National Strategic Project Designation: Jalan Lintas Selatan in Papua Selatan",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2024-12-02",
+    "region": "Papua Selatan",
+    "summary_id": "Proyek Strategis Nasional di Papua Selatan berpotensi memotong wilayah hidup komunitas Marind Anim tanpa konsultasi yang memadai.",
+    "summary_en": "The National Strategic Project in Papua Selatan may cut through the Marind Anim living space without adequate consultation.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Marind Anim"
+    ],
+    "category": "psn",
+    "risk_level": "sedang",
+    "risk_score": 37,
+    "confidence_score": 0.84,
+    "communities": [
+      "Marind Anim"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "6fdf2b4d-a789-41a5-bb2b-10e3e89ef025",
+    "number": "SK.578/MENLHK/2025",
+    "title_id": "Pemberian Hak Kelola Perhutanan Sosial bagi Komunitas Talang Mamak Jambi di Jambi",
+    "title_en": "Social Forestry Management Rights for Talang Mamak Jambi in Jambi",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-04-07",
+    "region": "Jambi",
+    "summary_id": "Skema perhutanan sosial di Jambi memberi peluang baru bagi komunitas Talang Mamak Jambi untuk mengelola hutan secara legal.",
+    "summary_en": "Social forestry scheme in Jambi provides new legal pathways for the Talang Mamak Jambi community to manage forests.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Talang Mamak Jambi"
+    ],
+    "category": "perhutanan_sosial",
+    "risk_level": "sedang",
+    "risk_score": 34,
+    "confidence_score": 0.67,
+    "communities": [
+      "Talang Mamak Jambi"
+    ],
+    "recommendation_id": "Dampingi komunitas menyiapkan paket bukti hukum dan surat keberatan resmi.",
+    "recommendation_en": "Support the community in preparing a legal evidence pack and formal objection letter.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "28c9d9b9-dade-4b96-8aff-639c6e8335d8",
+    "number": "Perpres No. 700/2024",
+    "title_id": "Penetapan Proyek Strategis Nasional Bandar Antariksa Biak di Sumatera Utara",
+    "title_en": "National Strategic Project Designation: Bandar Antariksa Biak in Sumatera Utara",
+    "institution": "Kementerian Koordinator Perekonomian",
+    "date_issued": "2024-08-05",
+    "region": "Sumatera Utara",
+    "summary_id": "Proyek Strategis Nasional di Sumatera Utara berpotensi memotong wilayah hidup komunitas Mandailing tanpa konsultasi yang memadai.",
+    "summary_en": "The National Strategic Project in Sumatera Utara may cut through the Mandailing living space without adequate consultation.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Mandailing",
+      "Pesisir Sibolga"
+    ],
+    "category": "psn",
+    "risk_level": "tinggi",
+    "risk_score": 80,
+    "confidence_score": 0.79,
+    "communities": [
+      "Mandailing",
+      "Pesisir Sibolga"
+    ],
+    "recommendation_id": "Usulkan moratorium izin baru di wilayah tumpang tindih hingga proses verifikasi selesai.",
+    "recommendation_en": "Propose a moratorium on new permits in overlap zones until verification completes.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "015a8197-4675-454f-bea0-f6b51ab91146",
+    "number": "P.104/MENLHK/2024",
+    "title_id": "Penetapan Perluasan Kawasan Konservasi Tesso Nilo di Papua Barat",
+    "title_en": "Designation of Tesso Nilo Conservation Area Extension in Papua Barat",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2024-10-05",
+    "region": "Papua Barat",
+    "summary_id": "Perubahan fungsi kawasan konservasi di Papua Barat berpengaruh pada hak kelola tradisional komunitas Maybrat.",
+    "summary_en": "Conservation-area function change in Papua Barat affects traditional management rights of the Maybrat community.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Maybrat"
+    ],
+    "category": "konservasi",
+    "risk_level": "kritis",
+    "risk_score": 94,
+    "confidence_score": 0.88,
+    "communities": [
+      "Maybrat"
+    ],
+    "recommendation_id": "Lakukan mediasi komunitas dan dialog multi-pihak sebelum operasional dimulai.",
+    "recommendation_en": "Initiate community mediation and multi-stakeholder dialogue before operations begin.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "b590d3d9-3adc-47eb-8457-5787631d78be",
+    "number": "SK ESDM No. 570/2025",
+    "title_id": "Izin Usaha Pertambangan Batubara di Riau",
+    "title_en": "Coal Mining Business Permit in Riau",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-04-18",
+    "region": "Riau",
+    "summary_id": "Regulasi ini berpotensi menyebabkan tumpang tindih dengan wilayah adat Talang Mamak di Riau akibat masuknya konsesi tambang ke kawasan hidup komunitas.",
+    "summary_en": "This regulation may create overlap with the Talang Mamak customary territory in Riau due to mining concessions entering community living space.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Talang Mamak"
+    ],
+    "category": "tambang",
+    "risk_level": "rendah",
+    "risk_score": 12,
+    "confidence_score": 0.88,
+    "communities": [
+      "Talang Mamak"
+    ],
+    "recommendation_id": "Usulkan moratorium izin baru di wilayah tumpang tindih hingga proses verifikasi selesai.",
+    "recommendation_en": "Propose a moratorium on new permits in overlap zones until verification completes.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "f6bbb117-f12b-4351-9e87-2a22be9decd4",
+    "number": "P.663/MENLHK/2025",
+    "title_id": "Penetapan Lokasi Food Estate Tebu di Sulawesi Utara",
+    "title_en": "Food Estate Site Designation: Sugarcane in Sulawesi Utara",
+    "institution": "Kementerian Pertanian",
+    "date_issued": "2026-03-17",
+    "region": "Sulawesi Utara",
+    "summary_id": "Pengembangan Food Estate di Sulawesi Utara dapat mengubah pola pertanian adat dan menggeser sistem pangan tradisional komunitas Tonsea.",
+    "summary_en": "Food Estate development in Sulawesi Utara may alter customary agricultural patterns and displace traditional food systems of the Tonsea.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Tonsea"
+    ],
+    "category": "food_estate",
+    "risk_level": "sedang",
+    "risk_score": 33,
+    "confidence_score": 0.7,
+    "communities": [
+      "Tonsea"
+    ],
+    "recommendation_id": "Lakukan kajian dampak sosial-ekologi independen sebelum operasional lanjut.",
+    "recommendation_en": "Conduct independent socio-ecological impact assessment before further operations.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "23853e8e-a99d-42a2-9f19-533bb9fb5069",
+    "number": "SK ESDM No. 547/2025",
+    "title_id": "Izin Usaha Pertambangan Nikel di Papua Tengah",
+    "title_en": "Nickel Mining Business Permit in Papua Tengah",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-07-25",
+    "region": "Papua Tengah",
+    "summary_id": "Regulasi ini berpotensi menyebabkan tumpang tindih dengan wilayah adat Wandamen di Papua Tengah akibat masuknya konsesi tambang ke kawasan hidup komunitas.",
+    "summary_en": "This regulation may create overlap with the Wandamen customary territory in Papua Tengah due to mining concessions entering community living space.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Wandamen"
+    ],
+    "category": "tambang",
+    "risk_level": "rendah",
+    "risk_score": 26,
+    "confidence_score": 0.77,
+    "communities": [
+      "Wandamen"
+    ],
+    "recommendation_id": "Verifikasi legalitas dokumen perizinan terhadap RTRW provinsi dan kabupaten.",
+    "recommendation_en": "Verify permit legality against provincial and regency spatial plans.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "fe7849a4-93b8-4a63-9b2c-831efab07a67",
+    "number": "P.967/MENLHK/2026",
+    "title_id": "Perubahan Fungsi Kawasan Hutan Lindung Lorentz di Sulawesi Tenggara",
+    "title_en": "Change of Protected Forest Function: Lorentz in Sulawesi Tenggara",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2024-07-04",
+    "region": "Sulawesi Tenggara",
+    "summary_id": "Penetapan ulang batas hutan lindung di Sulawesi Tenggara berdampak pada hak akses tradisional komunitas Tolaki Mekongga terhadap hasil hutan.",
+    "summary_en": "Re-designation of protected forest boundaries in Sulawesi Tenggara impacts traditional access of the Tolaki Mekongga community.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Tolaki Mekongga",
+      "Bajo Sampela"
+    ],
+    "category": "hutan_lindung",
+    "risk_level": "sedang",
+    "risk_score": 41,
+    "confidence_score": 0.86,
+    "communities": [
+      "Tolaki Mekongga",
+      "Bajo Sampela"
+    ],
+    "recommendation_id": "Usulkan moratorium izin baru di wilayah tumpang tindih hingga proses verifikasi selesai.",
+    "recommendation_en": "Propose a moratorium on new permits in overlap zones until verification completes.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "5e668d37-d42c-473f-aca2-54d88cb3dd94",
+    "number": "SK.654/MENLHK/2026",
+    "title_id": "Izin Pemanfaatan Hutan untuk HTI Eukaliptus di Maluku Utara",
+    "title_en": "Industrial Plantation Forest Permit for Eucalyptus in Maluku Utara",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2024-07-23",
+    "region": "Maluku Utara",
+    "summary_id": "Penetapan kawasan HTI di Maluku Utara dapat membatasi akses tradisional komunitas Mangole terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Maluku Utara may restrict traditional access of the Mangole community to non-timber forest products and sacred sites.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Mangole"
+    ],
+    "category": "hti",
+    "risk_level": "sedang",
+    "risk_score": 43,
+    "confidence_score": 0.79,
+    "communities": [
+      "Mangole"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "24cfe057-f102-45d2-a610-ea4350edfdd4",
+    "number": "SK ESDM No. 983/2025",
+    "title_id": "Izin Pinjam Pakai Kawasan Hutan untuk Pertambangan Emas di Maluku Utara",
+    "title_en": "Forest Area Borrow-to-Use Permit for Gold Mining in Maluku Utara",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-02-20",
+    "region": "Maluku Utara",
+    "summary_id": "Regulasi ini berpotensi menyebabkan tumpang tindih dengan wilayah adat Tobelo Dalam (O Hongana Manyawa) di Maluku Utara akibat masuknya konsesi tambang ke kawasan hidup komunitas.",
+    "summary_en": "This regulation may create overlap with the Tobelo Dalam (O Hongana Manyawa) customary territory in Maluku Utara due to mining concessions entering community living space.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Tobelo Dalam (O Hongana Manyawa)",
+      "Hibua Lamo"
+    ],
+    "category": "tambang",
+    "risk_level": "sedang",
+    "risk_score": 51,
+    "confidence_score": 0.63,
+    "communities": [
+      "Tobelo Dalam (O Hongana Manyawa)",
+      "Hibua Lamo"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "8915ee81-3a64-43fa-a787-4f4a3f9032f1",
+    "number": "SK.578/MENLHK/2026",
+    "title_id": "Perubahan Peruntukan Kawasan Hutan untuk Sawit di Jambi",
+    "title_en": "Change of Forest Area Designation for Palm Oil in Jambi",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2024-08-01",
+    "region": "Jambi",
+    "summary_id": "Pembukaan perkebunan sawit di Jambi berpotensi menggeser wilayah adat Orang Rimba (SAD) dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in Jambi may displace the Orang Rimba (SAD) customary territory and reduce community forest cover.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Orang Rimba (SAD)",
+      "Anak Dalam Cerenti"
+    ],
+    "category": "sawit",
+    "risk_level": "sedang",
+    "risk_score": 28,
+    "confidence_score": 0.65,
+    "communities": [
+      "Orang Rimba (SAD)",
+      "Anak Dalam Cerenti"
+    ],
+    "recommendation_id": "Lakukan mediasi komunitas dan dialog multi-pihak sebelum operasional dimulai.",
+    "recommendation_en": "Initiate community mediation and multi-stakeholder dialogue before operations begin.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "cfd0a6e3-f407-4e30-addd-545d30665d2a",
+    "number": "SK ESDM No. 280/2026",
+    "title_id": "Penetapan Wilayah Kerja Panas Bumi Patuha di Jawa Tengah",
+    "title_en": "Geothermal Working Area Designation: Patuha in Jawa Tengah",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2025-01-19",
+    "region": "Jawa Tengah",
+    "summary_id": "Wilayah kerja panas bumi di Jawa Tengah berpotensi membuka akses jalan ke wilayah inti komunitas Samin Sukolilo yang sebelumnya terisolasi.",
+    "summary_en": "Geothermal work area in Jawa Tengah may open road access into previously isolated Samin Sukolilo core territory.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Samin Sukolilo"
+    ],
+    "category": "geothermal",
+    "risk_level": "tinggi",
+    "risk_score": 70,
+    "confidence_score": 0.74,
+    "communities": [
+      "Samin Sukolilo"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "df45921c-aa3a-4047-9e23-5f41692ec8fe",
+    "number": "Perpres No. 442/2024",
+    "title_id": "Pinjam Pakai Kawasan Hutan untuk Bendungan Multifungsi di Sulawesi Barat",
+    "title_en": "Forest Area Borrow-to-Use for Multipurpose Dam in Sulawesi Barat",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2024-11-12",
+    "region": "Sulawesi Barat",
+    "summary_id": "Pembangunan infrastruktur di Sulawesi Barat dapat melintasi wilayah komunitas Mandar Balanipa, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Sulawesi Barat may cross Mandar Balanipa territory, requiring coordination before operations.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Mandar Balanipa"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "tinggi",
+    "risk_score": 66,
+    "confidence_score": 0.74,
+    "communities": [
+      "Mandar Balanipa"
+    ],
+    "recommendation_id": "Dampingi komunitas menyiapkan paket bukti hukum dan surat keberatan resmi.",
+    "recommendation_en": "Support the community in preparing a legal evidence pack and formal objection letter.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "1d381929-0fb9-4c98-a3e6-e36c901da9f1",
+    "number": "P.307/MENLHK/2025",
+    "title_id": "Pengembangan Food Estate Tebu di Sumatera Utara",
+    "title_en": "Food Estate Development for Sugarcane in Sumatera Utara",
+    "institution": "Kementerian Pertanian",
+    "date_issued": "2025-01-26",
+    "region": "Sumatera Utara",
+    "summary_id": "Pengembangan Food Estate di Sumatera Utara dapat mengubah pola pertanian adat dan menggeser sistem pangan tradisional komunitas Batak Toba.",
+    "summary_en": "Food Estate development in Sumatera Utara may alter customary agricultural patterns and displace traditional food systems of the Batak Toba.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Batak Toba"
+    ],
+    "category": "food_estate",
+    "risk_level": "tinggi",
+    "risk_score": 70,
+    "confidence_score": 0.85,
+    "communities": [
+      "Batak Toba"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "2600f5c2-10a4-4d7e-b3bb-1faa5930e777",
+    "number": "Perpres No. 753/2025",
+    "title_id": "Pinjam Pakai Kawasan Hutan untuk Bandar Udara Perintis di Maluku Utara",
+    "title_en": "Forest Area Borrow-to-Use for Regional Airport in Maluku Utara",
+    "institution": "Pemprov terkait",
+    "date_issued": "2024-10-24",
+    "region": "Maluku Utara",
+    "summary_id": "Pembangunan infrastruktur di Maluku Utara dapat melintasi wilayah komunitas Taliabu, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Maluku Utara may cross Taliabu territory, requiring coordination before operations.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Taliabu"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "rendah",
+    "risk_score": 8,
+    "confidence_score": 0.89,
+    "communities": [
+      "Taliabu"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "870e70a6-48b1-4c11-bbe1-fac01f78429c",
+    "number": "SK.76/MENLHK/2025",
+    "title_id": "Perubahan Peruntukan Kawasan Hutan untuk Sawit di Gorontalo",
+    "title_en": "Change of Forest Area Designation for Palm Oil in Gorontalo",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-03-03",
+    "region": "Gorontalo",
+    "summary_id": "Pembukaan perkebunan sawit di Gorontalo berpotensi menggeser wilayah adat Suwawa dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in Gorontalo may displace the Suwawa customary territory and reduce community forest cover.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Suwawa"
+    ],
+    "category": "sawit",
+    "risk_level": "tinggi",
+    "risk_score": 80,
+    "confidence_score": 0.76,
+    "communities": [
+      "Suwawa"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "7316ad68-8cca-49ea-9d63-b78143a140c9",
+    "number": "SK ESDM No. 475/2025",
+    "title_id": "Penetapan Wilayah Kerja Panas Bumi Mataloko di Papua Tengah",
+    "title_en": "Geothermal Working Area Designation: Mataloko in Papua Tengah",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2025-06-17",
+    "region": "Papua Tengah",
+    "summary_id": "Wilayah kerja panas bumi di Papua Tengah berpotensi membuka akses jalan ke wilayah inti komunitas Kamoro Kaokonao yang sebelumnya terisolasi.",
+    "summary_en": "Geothermal work area in Papua Tengah may open road access into previously isolated Kamoro Kaokonao core territory.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Kamoro Kaokonao"
+    ],
+    "category": "geothermal",
+    "risk_level": "sedang",
+    "risk_score": 49,
+    "confidence_score": 0.67,
+    "communities": [
+      "Kamoro Kaokonao"
+    ],
+    "recommendation_id": "Lakukan mediasi komunitas dan dialog multi-pihak sebelum operasional dimulai.",
+    "recommendation_en": "Initiate community mediation and multi-stakeholder dialogue before operations begin.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "22f01788-d6d4-4e1b-af30-bde55c801dcb",
+    "number": "SK.694/MENLHK/2024",
+    "title_id": "Perubahan Peruntukan Kawasan Hutan untuk Sawit di Sulawesi Tengah",
+    "title_en": "Change of Forest Area Designation for Palm Oil in Sulawesi Tengah",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-12-19",
+    "region": "Sulawesi Tengah",
+    "summary_id": "Pembukaan perkebunan sawit di Sulawesi Tengah berpotensi menggeser wilayah adat Wana Bulang dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in Sulawesi Tengah may displace the Wana Bulang customary territory and reduce community forest cover.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Wana Bulang"
+    ],
+    "category": "sawit",
+    "risk_level": "kritis",
+    "risk_score": 98,
+    "confidence_score": 0.77,
+    "communities": [
+      "Wana Bulang"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "1e8dbdd6-3464-492d-91aa-6b79cf9a55d5",
+    "number": "SK.334/MENLHK/2025",
+    "title_id": "Penetapan Hutan Adat Komunitas Kasepuhan Karang di Banten",
+    "title_en": "Designation of Kasepuhan Karang Customary Forest in Banten",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-11-16",
+    "region": "Banten",
+    "summary_id": "Skema perhutanan sosial di Banten memberi peluang baru bagi komunitas Kasepuhan Karang untuk mengelola hutan secara legal.",
+    "summary_en": "Social forestry scheme in Banten provides new legal pathways for the Kasepuhan Karang community to manage forests.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Kasepuhan Karang",
+      "Kasepuhan Cisitu"
+    ],
+    "category": "perhutanan_sosial",
+    "risk_level": "sedang",
+    "risk_score": 33,
+    "confidence_score": 0.75,
+    "communities": [
+      "Kasepuhan Karang",
+      "Kasepuhan Cisitu"
+    ],
+    "recommendation_id": "Lakukan kajian dampak sosial-ekologi independen sebelum operasional lanjut.",
+    "recommendation_en": "Conduct independent socio-ecological impact assessment before further operations.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "9844ce10-8141-4108-9dd2-f1d877af2418",
+    "number": "P.589/MENLHK/2024",
+    "title_id": "Pengembangan Food Estate Jagung di Papua Barat",
+    "title_en": "Food Estate Development for Corn in Papua Barat",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-05-09",
+    "region": "Papua Barat",
+    "summary_id": "Pengembangan Food Estate di Papua Barat dapat mengubah pola pertanian adat dan menggeser sistem pangan tradisional komunitas Sough.",
+    "summary_en": "Food Estate development in Papua Barat may alter customary agricultural patterns and displace traditional food systems of the Sough.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Sough",
+      "Arfak Hatam"
+    ],
+    "category": "food_estate",
+    "risk_level": "sedang",
+    "risk_score": 55,
+    "confidence_score": 0.88,
+    "communities": [
+      "Sough",
+      "Arfak Hatam"
+    ],
+    "recommendation_id": "Dorong dialog multi-pihak yang dimediasi Komnas HAM atau pemerintah daerah.",
+    "recommendation_en": "Push multi-stakeholder dialogue mediated by Komnas HAM or local government.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "2d709c5e-380d-4bf4-84ec-d48fd8ecabb5",
+    "number": "P.282/MENLHK/2024",
+    "title_id": "Perubahan Fungsi Kawasan Hutan Lindung Bukit Duabelas di DKI Jakarta",
+    "title_en": "Change of Protected Forest Function: Bukit Duabelas in DKI Jakarta",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-10-18",
+    "region": "DKI Jakarta",
+    "summary_id": "Penetapan ulang batas hutan lindung di DKI Jakarta berdampak pada hak akses tradisional komunitas Betawi Setu Babakan terhadap hasil hutan.",
+    "summary_en": "Re-designation of protected forest boundaries in DKI Jakarta impacts traditional access of the Betawi Setu Babakan community.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Betawi Setu Babakan"
+    ],
+    "category": "hutan_lindung",
+    "risk_level": "rendah",
+    "risk_score": 27,
+    "confidence_score": 0.78,
+    "communities": [
+      "Betawi Setu Babakan"
+    ],
+    "recommendation_id": "Dampingi komunitas menyiapkan paket bukti hukum dan surat keberatan resmi.",
+    "recommendation_en": "Support the community in preparing a legal evidence pack and formal objection letter.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "04f0c5e1-ea86-43a3-8697-a8cad2a90709",
+    "number": "SK.603/MENLHK/2026",
+    "title_id": "Pemberian Hak Kelola Perhutanan Sosial bagi Komunitas Yei di Papua Selatan",
+    "title_en": "Social Forestry Management Rights for Yei in Papua Selatan",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2024-06-30",
+    "region": "Papua Selatan",
+    "summary_id": "Skema perhutanan sosial di Papua Selatan memberi peluang baru bagi komunitas Yei untuk mengelola hutan secara legal.",
+    "summary_en": "Social forestry scheme in Papua Selatan provides new legal pathways for the Yei community to manage forests.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Yei"
+    ],
+    "category": "perhutanan_sosial",
+    "risk_level": "sedang",
+    "risk_score": 52,
+    "confidence_score": 0.79,
+    "communities": [
+      "Yei"
+    ],
+    "recommendation_id": "Usulkan moratorium izin baru di wilayah tumpang tindih hingga proses verifikasi selesai.",
+    "recommendation_en": "Propose a moratorium on new permits in overlap zones until verification completes.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "55156c73-76ac-4bea-a319-6b0c2d6b2804",
+    "number": "Perpres No. 150/2024",
+    "title_id": "Pinjam Pakai Kawasan Hutan untuk Jaringan Transmisi Listrik 500 kV di Sulawesi Barat",
+    "title_en": "Forest Area Borrow-to-Use for 500 kV Power Transmission Line in Sulawesi Barat",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2025-09-25",
+    "region": "Sulawesi Barat",
+    "summary_id": "Pembangunan infrastruktur di Sulawesi Barat dapat melintasi wilayah komunitas Mandar Balanipa, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Sulawesi Barat may cross Mandar Balanipa territory, requiring coordination before operations.",
+    "impact_status": "safe",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Mandar Balanipa"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "rendah",
+    "risk_score": 26,
+    "confidence_score": 0.81,
+    "communities": [
+      "Mandar Balanipa"
+    ],
+    "recommendation_id": "Dorong dialog multi-pihak yang dimediasi Komnas HAM atau pemerintah daerah.",
+    "recommendation_en": "Push multi-stakeholder dialogue mediated by Komnas HAM or local government.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "d78e7991-3fd4-4f0c-a058-7e11c9ac3106",
+    "number": "SK ESDM No. 507/2024",
+    "title_id": "Penetapan Wilayah Kerja Panas Bumi Patuha di Nusa Tenggara Barat",
+    "title_en": "Geothermal Working Area Designation: Patuha in Nusa Tenggara Barat",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2025-07-10",
+    "region": "Nusa Tenggara Barat",
+    "summary_id": "Wilayah kerja panas bumi di Nusa Tenggara Barat berpotensi membuka akses jalan ke wilayah inti komunitas Mbojo Donggo yang sebelumnya terisolasi.",
+    "summary_en": "Geothermal work area in Nusa Tenggara Barat may open road access into previously isolated Mbojo Donggo core territory.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Mbojo Donggo"
+    ],
+    "category": "geothermal",
+    "risk_level": "rendah",
+    "risk_score": 24,
+    "confidence_score": 0.77,
+    "communities": [
+      "Mbojo Donggo"
+    ],
+    "recommendation_id": "Verifikasi legalitas dokumen perizinan terhadap RTRW provinsi dan kabupaten.",
+    "recommendation_en": "Verify permit legality against provincial and regency spatial plans.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "bf70e031-4cc4-4dec-b08d-ab62ba7d00fe",
+    "number": "P.85/MENLHK/2025",
+    "title_id": "Penetapan Lokasi Food Estate Tebu di Bengkulu",
+    "title_en": "Food Estate Site Designation: Sugarcane in Bengkulu",
+    "institution": "Kementerian Pertanian",
+    "date_issued": "2025-05-21",
+    "region": "Bengkulu",
+    "summary_id": "Pengembangan Food Estate di Bengkulu dapat mengubah pola pertanian adat dan menggeser sistem pangan tradisional komunitas Pekal.",
+    "summary_en": "Food Estate development in Bengkulu may alter customary agricultural patterns and displace traditional food systems of the Pekal.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Pekal",
+      "Serawai"
+    ],
+    "category": "food_estate",
+    "risk_level": "tinggi",
+    "risk_score": 72,
+    "confidence_score": 0.66,
+    "communities": [
+      "Pekal",
+      "Serawai"
+    ],
+    "recommendation_id": "Lakukan konsultasi FPIC (Free, Prior, Informed Consent) dengan komunitas adat terdampak.",
+    "recommendation_en": "Conduct FPIC (Free, Prior, Informed Consent) with affected indigenous communities.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "d91a44ab-1555-426d-92cd-bd38988125a6",
+    "number": "SK.826/MENLHK/2026",
+    "title_id": "Perubahan Peruntukan Kawasan Hutan untuk Sawit di DI Yogyakarta",
+    "title_en": "Change of Forest Area Designation for Palm Oil in DI Yogyakarta",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-02-21",
+    "region": "DI Yogyakarta",
+    "summary_id": "Pembukaan perkebunan sawit di DI Yogyakarta berpotensi menggeser wilayah adat Adat Mataraman dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in DI Yogyakarta may displace the Adat Mataraman customary territory and reduce community forest cover.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Adat Mataraman"
+    ],
+    "category": "sawit",
+    "risk_level": "sedang",
+    "risk_score": 32,
+    "confidence_score": 0.79,
+    "communities": [
+      "Adat Mataraman"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "ba425b76-a0a8-418f-9447-a1e5f71e34ea",
+    "number": "SK.811/MENLHK/2025",
+    "title_id": "Izin Pemanfaatan Hutan untuk HTI Jabon di Bengkulu",
+    "title_en": "Industrial Plantation Forest Permit for Jabon in Bengkulu",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-01-13",
+    "region": "Bengkulu",
+    "summary_id": "Penetapan kawasan HTI di Bengkulu dapat membatasi akses tradisional komunitas Pekal terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Bengkulu may restrict traditional access of the Pekal community to non-timber forest products and sacred sites.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Pekal",
+      "Rejang"
+    ],
+    "category": "hti",
+    "risk_level": "sedang",
+    "risk_score": 48,
+    "confidence_score": 0.73,
+    "communities": [
+      "Pekal",
+      "Rejang"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "7ddf3e11-2921-4bdc-9961-119a624e3199",
+    "number": "Perpres No. 397/2024",
+    "title_id": "Pinjam Pakai Kawasan Hutan untuk Saluran Irigasi Primer di Papua Pegunungan",
+    "title_en": "Forest Area Borrow-to-Use for Primary Irrigation Canal in Papua Pegunungan",
+    "institution": "Pemprov terkait",
+    "date_issued": "2025-05-27",
+    "region": "Papua Pegunungan",
+    "summary_id": "Pembangunan infrastruktur di Papua Pegunungan dapat melintasi wilayah komunitas Walak, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Papua Pegunungan may cross Walak territory, requiring coordination before operations.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Walak"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "sedang",
+    "risk_score": 44,
+    "confidence_score": 0.68,
+    "communities": [
+      "Walak"
+    ],
+    "recommendation_id": "Dampingi komunitas menyiapkan paket bukti hukum dan surat keberatan resmi.",
+    "recommendation_en": "Support the community in preparing a legal evidence pack and formal objection letter.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "b40dc1f0-8149-4917-bcf3-4940660b8da2",
+    "number": "Perpres No. 401/2025",
+    "title_id": "Pinjam Pakai Kawasan Hutan untuk Bendungan Multifungsi di Kepulauan Riau",
+    "title_en": "Forest Area Borrow-to-Use for Multipurpose Dam in Kepulauan Riau",
+    "institution": "Pemprov terkait",
+    "date_issued": "2025-07-23",
+    "region": "Kepulauan Riau",
+    "summary_id": "Pembangunan infrastruktur di Kepulauan Riau dapat melintasi wilayah komunitas Suku Laut, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Kepulauan Riau may cross Suku Laut territory, requiring coordination before operations.",
+    "impact_status": "safe",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Suku Laut"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "rendah",
+    "risk_score": 9,
+    "confidence_score": 0.71,
+    "communities": [
+      "Suku Laut"
+    ],
+    "recommendation_id": "Dorong dialog multi-pihak yang dimediasi Komnas HAM atau pemerintah daerah.",
+    "recommendation_en": "Push multi-stakeholder dialogue mediated by Komnas HAM or local government.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "a8157d73-0077-4864-a85f-22f6cc30beed",
+    "number": "SK.279/MENLHK/2025",
+    "title_id": "Pelepasan Kawasan Hutan untuk Perkebunan Sawit PT Bumi Hijau Raya di Riau",
+    "title_en": "Forest Area Release for Palm Oil Plantation PT Bumi Hijau Raya in Riau",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2024-12-16",
+    "region": "Riau",
+    "summary_id": "Pembukaan perkebunan sawit di Riau berpotensi menggeser wilayah adat Talang Mamak dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in Riau may displace the Talang Mamak customary territory and reduce community forest cover.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Talang Mamak",
+      "Sakai"
+    ],
+    "category": "sawit",
+    "risk_level": "tinggi",
+    "risk_score": 81,
+    "confidence_score": 0.66,
+    "communities": [
+      "Talang Mamak",
+      "Sakai"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "5f2662da-f865-4b80-98d1-f172690e32ba",
+    "number": "P.427/MENLHK/2024",
+    "title_id": "Pengembangan Food Estate Tebu di Sulawesi Tenggara",
+    "title_en": "Food Estate Development for Sugarcane in Sulawesi Tenggara",
+    "institution": "Kementerian Pertanian",
+    "date_issued": "2025-07-13",
+    "region": "Sulawesi Tenggara",
+    "summary_id": "Pengembangan Food Estate di Sulawesi Tenggara dapat mengubah pola pertanian adat dan menggeser sistem pangan tradisional komunitas Bajo Sampela.",
+    "summary_en": "Food Estate development in Sulawesi Tenggara may alter customary agricultural patterns and displace traditional food systems of the Bajo Sampela.",
+    "impact_status": "safe",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Bajo Sampela"
+    ],
+    "category": "food_estate",
+    "risk_level": "rendah",
+    "risk_score": 16,
+    "confidence_score": 0.69,
+    "communities": [
+      "Bajo Sampela"
+    ],
+    "recommendation_id": "Verifikasi legalitas dokumen perizinan terhadap RTRW provinsi dan kabupaten.",
+    "recommendation_en": "Verify permit legality against provincial and regency spatial plans.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "3d0449da-f051-445b-817b-7db3e4766b7a",
+    "number": "SK.476/MENLHK/2024",
+    "title_id": "Pemberian Hak Kelola Perhutanan Sosial bagi Komunitas Dayak Tidung di Kalimantan Utara",
+    "title_en": "Social Forestry Management Rights for Dayak Tidung in Kalimantan Utara",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-05-24",
+    "region": "Kalimantan Utara",
+    "summary_id": "Skema perhutanan sosial di Kalimantan Utara memberi peluang baru bagi komunitas Dayak Tidung untuk mengelola hutan secara legal.",
+    "summary_en": "Social forestry scheme in Kalimantan Utara provides new legal pathways for the Dayak Tidung community to manage forests.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Dayak Tidung"
+    ],
+    "category": "perhutanan_sosial",
+    "risk_level": "sedang",
+    "risk_score": 58,
+    "confidence_score": 0.9,
+    "communities": [
+      "Dayak Tidung"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "2239d2b9-11c8-4385-8e8c-7eb134041a53",
+    "number": "SK.919/MENLHK/2024",
+    "title_id": "Izin Pemanfaatan Hutan untuk HTI Eukaliptus di Papua Tengah",
+    "title_en": "Industrial Plantation Forest Permit for Eucalyptus in Papua Tengah",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2024-12-20",
+    "region": "Papua Tengah",
+    "summary_id": "Penetapan kawasan HTI di Papua Tengah dapat membatasi akses tradisional komunitas Wandamen terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Papua Tengah may restrict traditional access of the Wandamen community to non-timber forest products and sacred sites.",
+    "impact_status": "safe",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Wandamen"
+    ],
+    "category": "hti",
+    "risk_level": "rendah",
+    "risk_score": 25,
+    "confidence_score": 0.92,
+    "communities": [
+      "Wandamen"
+    ],
+    "recommendation_id": "Dorong dialog multi-pihak yang dimediasi Komnas HAM atau pemerintah daerah.",
+    "recommendation_en": "Push multi-stakeholder dialogue mediated by Komnas HAM or local government.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "41ce5649-b2a3-4882-8348-82723a55a2a1",
+    "number": "Perpres No. 799/2024",
+    "title_id": "Pembangunan Jalan Tol Lintas Provinsi di Sulawesi Tenggara",
+    "title_en": "Inter-province Toll Road Development in Sulawesi Tenggara",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2025-12-28",
+    "region": "Sulawesi Tenggara",
+    "summary_id": "Pembangunan infrastruktur di Sulawesi Tenggara dapat melintasi wilayah komunitas Tolaki Mekongga, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Sulawesi Tenggara may cross Tolaki Mekongga territory, requiring coordination before operations.",
+    "impact_status": "safe",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Tolaki Mekongga",
+      "Bajo Sampela"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "rendah",
+    "risk_score": 26,
+    "confidence_score": 0.83,
+    "communities": [
+      "Tolaki Mekongga",
+      "Bajo Sampela"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "225fea7c-0eb4-4768-9043-6aff131a925e",
+    "number": "SK.840/MENLHK/2025",
+    "title_id": "Pemberian Hak Kelola Perhutanan Sosial bagi Komunitas Wana Bulang di Sulawesi Tengah",
+    "title_en": "Social Forestry Management Rights for Wana Bulang in Sulawesi Tengah",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-12-09",
+    "region": "Sulawesi Tengah",
+    "summary_id": "Skema perhutanan sosial di Sulawesi Tengah memberi peluang baru bagi komunitas Wana Bulang untuk mengelola hutan secara legal.",
+    "summary_en": "Social forestry scheme in Sulawesi Tengah provides new legal pathways for the Wana Bulang community to manage forests.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Wana Bulang"
+    ],
+    "category": "perhutanan_sosial",
+    "risk_level": "sedang",
+    "risk_score": 55,
+    "confidence_score": 0.67,
+    "communities": [
+      "Wana Bulang"
+    ],
+    "recommendation_id": "Lakukan mediasi komunitas dan dialog multi-pihak sebelum operasional dimulai.",
+    "recommendation_en": "Initiate community mediation and multi-stakeholder dialogue before operations begin.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "bb1b555d-5438-4394-8b6c-4acca6aa3101",
+    "number": "SK.44/MENLHK/2024",
+    "title_id": "Pemberian Hak Kelola Perhutanan Sosial bagi Komunitas Walak di Papua Pegunungan",
+    "title_en": "Social Forestry Management Rights for Walak in Papua Pegunungan",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-02-18",
+    "region": "Papua Pegunungan",
+    "summary_id": "Skema perhutanan sosial di Papua Pegunungan memberi peluang baru bagi komunitas Walak untuk mengelola hutan secara legal.",
+    "summary_en": "Social forestry scheme in Papua Pegunungan provides new legal pathways for the Walak community to manage forests.",
+    "impact_status": "safe",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Walak",
+      "Hupla"
+    ],
+    "category": "perhutanan_sosial",
+    "risk_level": "rendah",
+    "risk_score": 8,
+    "confidence_score": 0.66,
+    "communities": [
+      "Walak",
+      "Hupla"
+    ],
+    "recommendation_id": "Lakukan mediasi komunitas dan dialog multi-pihak sebelum operasional dimulai.",
+    "recommendation_en": "Initiate community mediation and multi-stakeholder dialogue before operations begin.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "3b76f225-3130-47df-8027-e8004cb647d6",
+    "number": "SK ESDM No. 906/2026",
+    "title_id": "Izin Pinjam Pakai Kawasan Hutan untuk Pertambangan Batubara di Gorontalo",
+    "title_en": "Forest Area Borrow-to-Use Permit for Coal Mining in Gorontalo",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2024-08-29",
+    "region": "Gorontalo",
+    "summary_id": "Regulasi ini berpotensi menyebabkan tumpang tindih dengan wilayah adat Suwawa di Gorontalo akibat masuknya konsesi tambang ke kawasan hidup komunitas.",
+    "summary_en": "This regulation may create overlap with the Suwawa customary territory in Gorontalo due to mining concessions entering community living space.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Suwawa"
+    ],
+    "category": "tambang",
+    "risk_level": "sedang",
+    "risk_score": 57,
+    "confidence_score": 0.71,
+    "communities": [
+      "Suwawa"
+    ],
+    "recommendation_id": "Dampingi komunitas menyiapkan paket bukti hukum dan surat keberatan resmi.",
+    "recommendation_en": "Support the community in preparing a legal evidence pack and formal objection letter.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "4aa73c23-92a4-4921-8291-9861c7668035",
+    "number": "SK.783/MENLHK/2024",
+    "title_id": "Pemberian Hak Kelola Perhutanan Sosial bagi Komunitas Dayak Modang Long Wai di Kalimantan Timur",
+    "title_en": "Social Forestry Management Rights for Dayak Modang Long Wai in Kalimantan Timur",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-10-24",
+    "region": "Kalimantan Timur",
+    "summary_id": "Skema perhutanan sosial di Kalimantan Timur memberi peluang baru bagi komunitas Dayak Modang Long Wai untuk mengelola hutan secara legal.",
+    "summary_en": "Social forestry scheme in Kalimantan Timur provides new legal pathways for the Dayak Modang Long Wai community to manage forests.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Dayak Modang Long Wai"
+    ],
+    "category": "perhutanan_sosial",
+    "risk_level": "sedang",
+    "risk_score": 28,
+    "confidence_score": 0.63,
+    "communities": [
+      "Dayak Modang Long Wai"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "dae84b34-4df7-4122-9ab0-4016ac4ee461",
+    "number": "SK.1/MENLHK/2025",
+    "title_id": "Izin Pemanfaatan Hutan untuk HTI Jabon di Kalimantan Timur",
+    "title_en": "Industrial Plantation Forest Permit for Jabon in Kalimantan Timur",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-07-01",
+    "region": "Kalimantan Timur",
+    "summary_id": "Penetapan kawasan HTI di Kalimantan Timur dapat membatasi akses tradisional komunitas Dayak Bahau terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Kalimantan Timur may restrict traditional access of the Dayak Bahau community to non-timber forest products and sacred sites.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Dayak Bahau",
+      "Dayak Tunjung"
+    ],
+    "category": "hti",
+    "risk_level": "sedang",
+    "risk_score": 58,
+    "confidence_score": 0.8,
+    "communities": [
+      "Dayak Bahau",
+      "Dayak Tunjung"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "1af62112-37af-4d2b-8c4e-6dfcf316b492",
+    "number": "SK ESDM No. 835/2026",
+    "title_id": "Izin Usaha Pertambangan Timah di DKI Jakarta",
+    "title_en": "Tin Mining Business Permit in DKI Jakarta",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-05-14",
+    "region": "DKI Jakarta",
+    "summary_id": "Regulasi ini berpotensi menyebabkan tumpang tindih dengan wilayah adat Betawi Setu Babakan di DKI Jakarta akibat masuknya konsesi tambang ke kawasan hidup komunitas.",
+    "summary_en": "This regulation may create overlap with the Betawi Setu Babakan customary territory in DKI Jakarta due to mining concessions entering community living space.",
+    "impact_status": "safe",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Betawi Setu Babakan"
+    ],
+    "category": "tambang",
+    "risk_level": "rendah",
+    "risk_score": 10,
+    "confidence_score": 0.81,
+    "communities": [
+      "Betawi Setu Babakan"
+    ],
+    "recommendation_id": "Verifikasi legalitas dokumen perizinan terhadap RTRW provinsi dan kabupaten.",
+    "recommendation_en": "Verify permit legality against provincial and regency spatial plans.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "7b8715f5-c0c9-4055-94bb-7c15ba4b7db0",
+    "number": "SK ESDM No. 215/2025",
+    "title_id": "Izin Usaha Pertambangan Tembaga di Bengkulu",
+    "title_en": "Copper Mining Business Permit in Bengkulu",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2024-06-26",
+    "region": "Bengkulu",
+    "summary_id": "Regulasi ini berpotensi menyebabkan tumpang tindih dengan wilayah adat Lembak di Bengkulu akibat masuknya konsesi tambang ke kawasan hidup komunitas.",
+    "summary_en": "This regulation may create overlap with the Lembak customary territory in Bengkulu due to mining concessions entering community living space.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Lembak"
+    ],
+    "category": "tambang",
+    "risk_level": "tinggi",
+    "risk_score": 77,
+    "confidence_score": 0.82,
+    "communities": [
+      "Lembak"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "8cb90cb2-dd83-4811-b6ce-eafa01352b52",
+    "number": "SK ESDM No. 175/2025",
+    "title_id": "Penetapan Wilayah Kerja Panas Bumi Suoh-Sekincau di Aceh",
+    "title_en": "Geothermal Working Area Designation: Suoh-Sekincau in Aceh",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2025-12-23",
+    "region": "Aceh",
+    "summary_id": "Wilayah kerja panas bumi di Aceh berpotensi membuka akses jalan ke wilayah inti komunitas Gayo Lues yang sebelumnya terisolasi.",
+    "summary_en": "Geothermal work area in Aceh may open road access into previously isolated Gayo Lues core territory.",
+    "impact_status": "under_review",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Gayo Lues"
+    ],
+    "category": "geothermal",
+    "risk_level": "sedang",
+    "risk_score": 56,
+    "confidence_score": 0.79,
+    "communities": [
+      "Gayo Lues"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "113ddd5e-c525-4847-94ca-b24275457526",
+    "number": "Perpres No. 158/2025",
+    "title_id": "Pembangunan Pelabuhan Lokal di Kalimantan Selatan",
+    "title_en": "Local Port Development in Kalimantan Selatan",
+    "institution": "Pemprov terkait",
+    "date_issued": "2025-06-01",
+    "region": "Kalimantan Selatan",
+    "summary_id": "Pembangunan infrastruktur di Kalimantan Selatan dapat melintasi wilayah komunitas Banjar Tengah, memerlukan koordinasi sebelum operasional.",
+    "summary_en": "Infrastructure development in Kalimantan Selatan may cross Banjar Tengah territory, requiring coordination before operations.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Banjar Tengah"
+    ],
+    "category": "infrastruktur",
+    "risk_level": "tinggi",
+    "risk_score": 71,
+    "confidence_score": 0.64,
+    "communities": [
+      "Banjar Tengah"
+    ],
+    "recommendation_id": "Lakukan mediasi komunitas dan dialog multi-pihak sebelum operasional dimulai.",
+    "recommendation_en": "Initiate community mediation and multi-stakeholder dialogue before operations begin.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "47d09fbc-cda9-4568-916e-ceec9479c365",
+    "number": "SK.477/MENLHK/2025",
+    "title_id": "Perubahan Peruntukan Kawasan Hutan untuk Sawit di Maluku",
+    "title_en": "Change of Forest Area Designation for Palm Oil in Maluku",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-09-09",
+    "region": "Maluku",
+    "summary_id": "Pembukaan perkebunan sawit di Maluku berpotensi menggeser wilayah adat Naulu Sepa dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in Maluku may displace the Naulu Sepa customary territory and reduce community forest cover.",
+    "impact_status": "safe",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Naulu Sepa"
+    ],
+    "category": "sawit",
+    "risk_level": "rendah",
+    "risk_score": 23,
+    "confidence_score": 0.87,
+    "communities": [
+      "Naulu Sepa"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "d0d8320c-5e82-457a-8262-71aacce8a9aa",
+    "number": "SK.972/MENLHK/2024",
+    "title_id": "Perubahan Peruntukan Kawasan Hutan untuk Sawit di Riau",
+    "title_en": "Change of Forest Area Designation for Palm Oil in Riau",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-12-16",
+    "region": "Riau",
+    "summary_id": "Pembukaan perkebunan sawit di Riau berpotensi menggeser wilayah adat Talang Mamak dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in Riau may displace the Talang Mamak customary territory and reduce community forest cover.",
+    "impact_status": "safe",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Talang Mamak"
+    ],
+    "category": "sawit",
+    "risk_level": "rendah",
+    "risk_score": 25,
+    "confidence_score": 0.75,
+    "communities": [
+      "Talang Mamak"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "a5760b8d-28de-46e3-b859-868fdcbd782d",
+    "number": "SK.603/MENLHK/2026",
+    "title_id": "Perubahan Peruntukan Kawasan Hutan untuk Sawit di Sumatera Barat",
+    "title_en": "Change of Forest Area Designation for Palm Oil in Sumatera Barat",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2024-10-17",
+    "region": "Sumatera Barat",
+    "summary_id": "Pembukaan perkebunan sawit di Sumatera Barat berpotensi menggeser wilayah adat Kerinci Pesisir dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in Sumatera Barat may displace the Kerinci Pesisir customary territory and reduce community forest cover.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Kerinci Pesisir"
+    ],
+    "category": "sawit",
+    "risk_level": "tinggi",
+    "risk_score": 68,
+    "confidence_score": 0.65,
+    "communities": [
+      "Kerinci Pesisir"
+    ],
+    "recommendation_id": "Audit independen atas legalitas izin dan kepatuhan administrasi sesuai PP 23/2021.",
+    "recommendation_en": "Independent audit of permit legality and administrative compliance under PP 23/2021.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "69ea4746-a4f0-48e4-beca-ae906dce54f2",
+    "number": "SK.346/MENLHK/2024",
+    "title_id": "Pemberian Hak Kelola Perhutanan Sosial bagi Komunitas Pasemah di Sumatera Selatan",
+    "title_en": "Social Forestry Management Rights for Pasemah in Sumatera Selatan",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-07-30",
+    "region": "Sumatera Selatan",
+    "summary_id": "Skema perhutanan sosial di Sumatera Selatan memberi peluang baru bagi komunitas Pasemah untuk mengelola hutan secara legal.",
+    "summary_en": "Social forestry scheme in Sumatera Selatan provides new legal pathways for the Pasemah community to manage forests.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Pasemah",
+      "Komering"
+    ],
+    "category": "perhutanan_sosial",
+    "risk_level": "sedang",
+    "risk_score": 46,
+    "confidence_score": 0.63,
+    "communities": [
+      "Pasemah",
+      "Komering"
+    ],
+    "recommendation_id": "Verifikasi legalitas dokumen perizinan terhadap RTRW provinsi dan kabupaten.",
+    "recommendation_en": "Verify permit legality against provincial and regency spatial plans.",
+    "sumber": "JDIH Kabupaten",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "479b0325-541c-480f-b815-3c50f91db84d",
+    "number": "SK.30/MENLHK/2026",
+    "title_id": "Izin Pemanfaatan Hutan untuk HTI Sengon di Sumatera Selatan",
+    "title_en": "Industrial Plantation Forest Permit for Sengon in Sumatera Selatan",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-12-10",
+    "region": "Sumatera Selatan",
+    "summary_id": "Penetapan kawasan HTI di Sumatera Selatan dapat membatasi akses tradisional komunitas Komering terhadap hutan non-kayu dan situs adat.",
+    "summary_en": "The industrial plantation designation in Sumatera Selatan may restrict traditional access of the Komering community to non-timber forest products and sacred sites.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Komering"
+    ],
+    "category": "hti",
+    "risk_level": "sedang",
+    "risk_score": 47,
+    "confidence_score": 0.68,
+    "communities": [
+      "Komering"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "e7fb9775-0199-4596-b6bb-632e509ba66e",
+    "number": "SK ESDM No. 93/2026",
+    "title_id": "Izin Pinjam Pakai Kawasan Hutan untuk Pertambangan Batubara di Riau",
+    "title_en": "Forest Area Borrow-to-Use Permit for Coal Mining in Riau",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2026-05-08",
+    "region": "Riau",
+    "summary_id": "Regulasi ini berpotensi menyebabkan tumpang tindih dengan wilayah adat Talang Mamak di Riau akibat masuknya konsesi tambang ke kawasan hidup komunitas.",
+    "summary_en": "This regulation may create overlap with the Talang Mamak customary territory in Riau due to mining concessions entering community living space.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Talang Mamak",
+      "Bonai"
+    ],
+    "category": "tambang",
+    "risk_level": "sedang",
+    "risk_score": 54,
+    "confidence_score": 0.75,
+    "communities": [
+      "Talang Mamak",
+      "Bonai"
+    ],
+    "recommendation_id": "Dorong dialog multi-pihak yang dimediasi Komnas HAM atau pemerintah daerah.",
+    "recommendation_en": "Push multi-stakeholder dialogue mediated by Komnas HAM or local government.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "d798584f-0f74-4a5f-b294-3f8e04ede0f3",
+    "number": "Perpres No. 524/2024",
+    "title_id": "Percepatan PSN Pelabuhan Kontainer di DI Yogyakarta",
+    "title_en": "Acceleration of National Strategic Project Pelabuhan Kontainer in DI Yogyakarta",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2024-11-08",
+    "region": "DI Yogyakarta",
+    "summary_id": "Proyek Strategis Nasional di DI Yogyakarta berpotensi memotong wilayah hidup komunitas Adat Mataraman tanpa konsultasi yang memadai.",
+    "summary_en": "The National Strategic Project in DI Yogyakarta may cut through the Adat Mataraman living space without adequate consultation.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Adat Mataraman"
+    ],
+    "category": "psn",
+    "risk_level": "sedang",
+    "risk_score": 48,
+    "confidence_score": 0.69,
+    "communities": [
+      "Adat Mataraman"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "626668fb-142f-4927-8cec-1eae83bb2434",
+    "number": "SK.37/MENLHK/2026",
+    "title_id": "Pelepasan Kawasan Hutan untuk Perkebunan Sawit PT Karya Hutan Indonesia di Sumatera Selatan",
+    "title_en": "Forest Area Release for Palm Oil Plantation PT Karya Hutan Indonesia in Sumatera Selatan",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2024-10-16",
+    "region": "Sumatera Selatan",
+    "summary_id": "Pembukaan perkebunan sawit di Sumatera Selatan berpotensi menggeser wilayah adat Marga Semende dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in Sumatera Selatan may displace the Marga Semende customary territory and reduce community forest cover.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Marga Semende"
+    ],
+    "category": "sawit",
+    "risk_level": "sedang",
+    "risk_score": 48,
+    "confidence_score": 0.68,
+    "communities": [
+      "Marga Semende"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "a1729df9-8cc2-4cfd-8d33-8d833b87f191",
+    "number": "P.55/MENLHK/2025",
+    "title_id": "Penetapan Lokasi Food Estate Jagung di DI Yogyakarta",
+    "title_en": "Food Estate Site Designation: Corn in DI Yogyakarta",
+    "institution": "Kementerian Pertanian",
+    "date_issued": "2024-08-25",
+    "region": "DI Yogyakarta",
+    "summary_id": "Pengembangan Food Estate di DI Yogyakarta dapat mengubah pola pertanian adat dan menggeser sistem pangan tradisional komunitas Adat Mataraman.",
+    "summary_en": "Food Estate development in DI Yogyakarta may alter customary agricultural patterns and displace traditional food systems of the Adat Mataraman.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Adat Mataraman"
+    ],
+    "category": "food_estate",
+    "risk_level": "sedang",
+    "risk_score": 43,
+    "confidence_score": 0.85,
+    "communities": [
+      "Adat Mataraman"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "578f343c-1f10-40a4-8ada-fd90846153a3",
+    "number": "P.463/MENLHK/2024",
+    "title_id": "Perubahan Fungsi Kawasan Konservasi Tesso Nilo di Kepulauan Riau",
+    "title_en": "Change of Conservation Area Function Tesso Nilo in Kepulauan Riau",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-08-29",
+    "region": "Kepulauan Riau",
+    "summary_id": "Perubahan fungsi kawasan konservasi di Kepulauan Riau berpengaruh pada hak kelola tradisional komunitas Orang Mantang.",
+    "summary_en": "Conservation-area function change in Kepulauan Riau affects traditional management rights of the Orang Mantang community.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Orang Mantang"
+    ],
+    "category": "konservasi",
+    "risk_level": "tinggi",
+    "risk_score": 62,
+    "confidence_score": 0.94,
+    "communities": [
+      "Orang Mantang"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "76d66683-f5d2-4aed-b461-6f7037cbbcdc",
+    "number": "P.752/MENLHK/2026",
+    "title_id": "Penetapan Ulang Batas Hutan Lindung Kerumutan di Papua Selatan",
+    "title_en": "Re-designation of Protected Forest Boundary: Kerumutan in Papua Selatan",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-09-24",
+    "region": "Papua Selatan",
+    "summary_id": "Penetapan ulang batas hutan lindung di Papua Selatan berdampak pada hak akses tradisional komunitas Mandobo Boven Digoel terhadap hasil hutan.",
+    "summary_en": "Re-designation of protected forest boundaries in Papua Selatan impacts traditional access of the Mandobo Boven Digoel community.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Mandobo Boven Digoel"
+    ],
+    "category": "hutan_lindung",
+    "risk_level": "sedang",
+    "risk_score": 41,
+    "confidence_score": 0.93,
+    "communities": [
+      "Mandobo Boven Digoel"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "JDIH Setneg",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "3cbe89d0-e3a6-47d8-8970-86d936916acc",
+    "number": "SK.217/MENLHK/2024",
+    "title_id": "Perubahan Peruntukan Kawasan Hutan untuk Sawit di Kalimantan Barat",
+    "title_en": "Change of Forest Area Designation for Palm Oil in Kalimantan Barat",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2026-05-14",
+    "region": "Kalimantan Barat",
+    "summary_id": "Pembukaan perkebunan sawit di Kalimantan Barat berpotensi menggeser wilayah adat Dayak Kanayatn dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in Kalimantan Barat may displace the Dayak Kanayatn customary territory and reduce community forest cover.",
+    "impact_status": "under_review",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Dayak Kanayatn"
+    ],
+    "category": "sawit",
+    "risk_level": "sedang",
+    "risk_score": 37,
+    "confidence_score": 0.85,
+    "communities": [
+      "Dayak Kanayatn"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "de83a11c-6bf8-4bbe-9ce2-b891fe6b251d",
+    "number": "SK ESDM No. 533/2026",
+    "title_id": "Penetapan Wilayah Kerja Panas Bumi Patuha di Kalimantan Utara",
+    "title_en": "Geothermal Working Area Designation: Patuha in Kalimantan Utara",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2024-09-06",
+    "region": "Kalimantan Utara",
+    "summary_id": "Wilayah kerja panas bumi di Kalimantan Utara berpotensi membuka akses jalan ke wilayah inti komunitas Dayak Tidung yang sebelumnya terisolasi.",
+    "summary_en": "Geothermal work area in Kalimantan Utara may open road access into previously isolated Dayak Tidung core territory.",
+    "impact_status": "confirmed_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Dayak Tidung"
+    ],
+    "category": "geothermal",
+    "risk_level": "tinggi",
+    "risk_score": 58,
+    "confidence_score": 0.84,
+    "communities": [
+      "Dayak Tidung"
+    ],
+    "recommendation_id": "Koordinasi dengan KLHK & ATR/BPN untuk peninjauan kembali tata batas.",
+    "recommendation_en": "Coordinate with KLHK & ATR/BPN for a boundary re-examination.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "42561039-3e22-41e2-8ef5-52366d519aed",
+    "number": "Perpres No. 929/2024",
+    "title_id": "Percepatan PSN Jalan Lintas Selatan di Sumatera Selatan",
+    "title_en": "Acceleration of National Strategic Project Jalan Lintas Selatan in Sumatera Selatan",
+    "institution": "Kementerian Koordinator Perekonomian",
+    "date_issued": "2024-10-26",
+    "region": "Sumatera Selatan",
+    "summary_id": "Proyek Strategis Nasional di Sumatera Selatan berpotensi memotong wilayah hidup komunitas Anak Dalam Sumsel tanpa konsultasi yang memadai.",
+    "summary_en": "The National Strategic Project in Sumatera Selatan may cut through the Anak Dalam Sumsel living space without adequate consultation.",
+    "impact_status": "safe",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Anak Dalam Sumsel",
+      "Komering"
+    ],
+    "category": "psn",
+    "risk_level": "rendah",
+    "risk_score": 27,
+    "confidence_score": 0.89,
+    "communities": [
+      "Anak Dalam Sumsel",
+      "Komering"
+    ],
+    "recommendation_id": "Lakukan kajian dampak sosial-ekologi independen sebelum operasional lanjut.",
+    "recommendation_en": "Conduct independent socio-ecological impact assessment before further operations.",
+    "sumber": "JDIH Provinsi",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "c8281016-37a1-4986-aae4-ef5e1415c7ce",
+    "number": "Perpres No. 275/2026",
+    "title_id": "Percepatan PSN Jalan Trans-Papua di Kepulauan Riau",
+    "title_en": "Acceleration of National Strategic Project Jalan Trans-Papua in Kepulauan Riau",
+    "institution": "Kementerian PUPR",
+    "date_issued": "2025-05-20",
+    "region": "Kepulauan Riau",
+    "summary_id": "Proyek Strategis Nasional di Kepulauan Riau berpotensi memotong wilayah hidup komunitas Suku Laut tanpa konsultasi yang memadai.",
+    "summary_en": "The National Strategic Project in Kepulauan Riau may cut through the Suku Laut living space without adequate consultation.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Suku Laut",
+      "Orang Mantang"
+    ],
+    "category": "psn",
+    "risk_level": "tinggi",
+    "risk_score": 61,
+    "confidence_score": 0.9,
+    "communities": [
+      "Suku Laut",
+      "Orang Mantang"
+    ],
+    "recommendation_id": "Usulkan moratorium izin baru di wilayah tumpang tindih hingga proses verifikasi selesai.",
+    "recommendation_en": "Propose a moratorium on new permits in overlap zones until verification completes.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "9150b754-cf98-400b-b911-1b7de6e79365",
+    "number": "SK ESDM No. 495/2024",
+    "title_id": "Penetapan Wilayah Kerja Panas Bumi Lumut Balai di Sulawesi Tenggara",
+    "title_en": "Geothermal Working Area Designation: Lumut Balai in Sulawesi Tenggara",
+    "institution": "Kementerian ESDM",
+    "date_issued": "2026-02-10",
+    "region": "Sulawesi Tenggara",
+    "summary_id": "Wilayah kerja panas bumi di Sulawesi Tenggara berpotensi membuka akses jalan ke wilayah inti komunitas Muna Tikep yang sebelumnya terisolasi.",
+    "summary_en": "Geothermal work area in Sulawesi Tenggara may open road access into previously isolated Muna Tikep core territory.",
+    "impact_status": "potential_impact",
+    "document_url": "https://peraturan.go.id/",
+    "affected_territories": [
+      "Muna Tikep"
+    ],
+    "category": "geothermal",
+    "risk_level": "tinggi",
+    "risk_score": 80,
+    "confidence_score": 0.93,
+    "communities": [
+      "Muna Tikep"
+    ],
+    "recommendation_id": "Dorong dialog multi-pihak yang dimediasi Komnas HAM atau pemerintah daerah.",
+    "recommendation_en": "Push multi-stakeholder dialogue mediated by Komnas HAM or local government.",
+    "sumber": "JDIH KLHK",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "0a389757-61b0-4e42-94f2-4127e86e4a38",
+    "number": "P.52/MENLHK/2025",
+    "title_id": "Pengembangan Food Estate Padi & Singkong di Bali",
+    "title_en": "Food Estate Development for Rice & Cassava in Bali",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-01-02",
+    "region": "Bali",
+    "summary_id": "Pengembangan Food Estate di Bali dapat mengubah pola pertanian adat dan menggeser sistem pangan tradisional komunitas Bali Aga Sidatapa.",
+    "summary_en": "Food Estate development in Bali may alter customary agricultural patterns and displace traditional food systems of the Bali Aga Sidatapa.",
+    "impact_status": "safe",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Bali Aga Sidatapa"
+    ],
+    "category": "food_estate",
+    "risk_level": "rendah",
+    "risk_score": 21,
+    "confidence_score": 0.77,
+    "communities": [
+      "Bali Aga Sidatapa"
+    ],
+    "recommendation_id": "Inisiasi pemetaan partisipatif batas wilayah adat sebagai dasar negosiasi.",
+    "recommendation_en": "Initiate participatory mapping of customary boundaries as a basis for negotiation.",
+    "sumber": "Lembaran Negara",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  },
+  {
+    "id": "96ef00cd-2f90-4776-863d-95e1e5d00651",
+    "number": "SK.974/MENLHK/2025",
+    "title_id": "Pelepasan Kawasan Hutan untuk Perkebunan Sawit PT Bumi Hijau Raya di Gorontalo",
+    "title_en": "Forest Area Release for Palm Oil Plantation PT Bumi Hijau Raya in Gorontalo",
+    "institution": "KLHK — Kementerian Lingkungan Hidup dan Kehutanan",
+    "date_issued": "2025-06-21",
+    "region": "Gorontalo",
+    "summary_id": "Pembukaan perkebunan sawit di Gorontalo berpotensi menggeser wilayah adat Polahi dan menurunkan tutupan hutan komunitas.",
+    "summary_en": "Opening a palm oil plantation in Gorontalo may displace the Polahi customary territory and reduce community forest cover.",
+    "impact_status": "potential_impact",
+    "document_url": "https://jdih.menlhk.go.id/",
+    "affected_territories": [
+      "Polahi"
+    ],
+    "category": "sawit",
+    "risk_level": "sedang",
+    "risk_score": 38,
+    "confidence_score": 0.86,
+    "communities": [
+      "Polahi"
+    ],
+    "recommendation_id": "Usulkan moratorium izin baru di wilayah tumpang tindih hingga proses verifikasi selesai.",
+    "recommendation_en": "Propose a moratorium on new permits in overlap zones until verification completes.",
+    "sumber": "JDIH ESDM",
+    "created_at": "2026-06-06T14:31:31.352610+00:00"
+  }
+]

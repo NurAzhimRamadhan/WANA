@@ -1,0 +1,122 @@
+[
+  {
+    "type": "regulation",
+    "category": "urgent",
+    "title_id": "Regulasi baru terdeteksi",
+    "title_en": "New regulation detected",
+    "message_id": "Perubahan kawasan hutan terdeteksi di Kalimantan Selatan — Pegunungan Meratus.",
+    "message_en": "Forest area change detected in South Kalimantan — Meratus Mountains.",
+    "region": "Kalimantan Selatan",
+    "link": "/monitor",
+    "minutes_ago": 5,
+    "id": "740e57a1-3648-48ea-9113-4c42fcf81d2c"
+  },
+  {
+    "type": "brief",
+    "category": "success",
+    "title_id": "Impact Brief selesai diproses",
+    "title_en": "Impact Brief generated",
+    "message_id": "Brief untuk wilayah Dayak Meratus telah berhasil dibuat dan siap divalidasi.",
+    "message_en": "Brief for Dayak Meratus territory has been generated and is ready for validation.",
+    "region": "Kalimantan Selatan",
+    "link": "/brief",
+    "minutes_ago": 12,
+    "id": "42e058b2-65c6-4019-a396-e88e5ac94868"
+  },
+  {
+    "type": "spatial",
+    "category": "warning",
+    "title_id": "Tumpang tindih wilayah terdeteksi",
+    "title_en": "Territorial overlap detected",
+    "message_id": "Overlap baru terdeteksi di Papua Barat — Suku Moi vs. perubahan APL.",
+    "message_en": "New overlap detected in West Papua — Suku Moi vs. APL conversion.",
+    "region": "Papua Barat",
+    "link": "/spatial",
+    "minutes_ago": 60,
+    "id": "8b6938b2-e044-4e47-a5bc-818bc8f0f25d"
+  },
+  {
+    "type": "alert",
+    "category": "info",
+    "title_id": "Peringatan WhatsApp terkirim",
+    "title_en": "WhatsApp alert dispatched",
+    "message_id": "Notifikasi terkirim ke 14 paralegal komunitas Suku Anak Dalam.",
+    "message_en": "Notification dispatched to 14 Suku Anak Dalam community paralegals.",
+    "region": "Jambi",
+    "link": "/alerts",
+    "minutes_ago": 120,
+    "id": "0ce5ce1e-ce75-4add-a94f-e97f3c8f4755"
+  },
+  {
+    "type": "evidence",
+    "category": "info",
+    "title_id": "Paket bukti diperbarui",
+    "title_en": "Evidence pack updated",
+    "message_id": "Paralegal menambahkan 3 foto lapangan ke kasus Kapuas.",
+    "message_en": "A paralegal added 3 field photos to the Kapuas case.",
+    "region": "Kalimantan Tengah",
+    "link": "/evidence",
+    "minutes_ago": 240,
+    "id": "887fb55d-6d1a-466b-b9d9-8accd6b36d1b"
+  },
+  {
+    "type": "validation",
+    "category": "warning",
+    "title_id": "Validasi hukum diperlukan",
+    "title_en": "Legal validation required",
+    "message_id": "Impact brief untuk Tolaki Mekongga menunggu peninjauan pendamping hukum.",
+    "message_en": "Impact brief for Tolaki Mekongga awaits legal companion review.",
+    "region": "Sulawesi Tenggara",
+    "link": "/brief",
+    "minutes_ago": 360,
+    "id": "79005a66-ea7c-4002-b123-ece46ef7ff7b"
+  },
+  {
+    "type": "regulation",
+    "category": "urgent",
+    "title_id": "Izin baru: pertambangan nikel",
+    "title_en": "New permit: nickel mining",
+    "message_id": "Izin Pinjam Pakai Kawasan Hutan terbit untuk pertambangan nikel di Konawe.",
+    "message_en": "Forest Area Borrow-to-Use Permit issued for nickel mining in Konawe.",
+    "region": "Sulawesi Tenggara",
+    "link": "/monitor",
+    "minutes_ago": 600,
+    "id": "fb31923d-f3d0-4284-9493-fde1ae868839"
+  },
+  {
+    "type": "brief",
+    "category": "success",
+    "title_id": "10 brief baru tersedia minggu ini",
+    "title_en": "10 new briefs this week",
+    "message_id": "Sistem WANA berhasil memproses 10 dokumen regulasi minggu ini.",
+    "message_en": "WANA processed 10 regulation documents this week.",
+    "region": "Nasional",
+    "link": "/brief",
+    "minutes_ago": 1440,
+    "id": "11c6e759-a5b7-4b46-a147-5204627077be"
+  },
+  {
+    "type": "spatial",
+    "category": "info",
+    "title_id": "Peta wilayah diperbarui",
+    "title_en": "Territory map updated",
+    "message_id": "Batas wilayah adat Kasepuhan Karang dikonfirmasi ulang oleh komunitas.",
+    "message_en": "Kasepuhan Karang ancestral boundary re-confirmed by the community.",
+    "region": "Banten",
+    "link": "/spatial",
+    "minutes_ago": 1680,
+    "id": "0755bf9d-f272-4f7c-a831-0b75a8dcf361"
+  },
+  {
+    "type": "alert",
+    "category": "info",
+    "title_id": "Langganan baru disetujui",
+    "title_en": "New subscription approved",
+    "message_id": "Pendamping hukum dari LBH Manado telah berlangganan peringatan Sulut.",
+    "message_en": "A legal companion from LBH Manado has subscribed to North Sulawesi alerts.",
+    "region": "Sulawesi Utara",
+    "link": "/alerts",
+    "minutes_ago": 2880,
+    "id": "0cc7d1ee-0f63-4914-8fbf-fec2123c1664"
+  }
+]

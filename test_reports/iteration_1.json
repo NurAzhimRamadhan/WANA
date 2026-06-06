@@ -1,0 +1,45 @@
+{
+  "summary": "End-to-end testing of WANA MVP (backend + frontend). 21/21 pytest backend tests passing after a transient LLM budget hiccup recovered. All major frontend pages render, all critical interactive elements have data-testid attributes, and integrations are working (regulations, alerts, territories+Leaflet map, evidence packs, impact brief via Claude Sonnet 4.5, PDF export, dashboard summary, language toggle, mobile nav).",
+  "backend_issues": {
+    "critical": [],
+    "minor": [
+      {"endpoint": "/api/impact-brief/generate", "issue": "Returns raw 500 'Internal Server Error' when Emergent LLM budget is exhausted. Should catch emergentintegrations.llm.chat.ChatError and surface a user-friendly 502/503 message (e.g. 'LLM service unavailable / budget exceeded')."},
+      {"endpoint": "/api/alert-subscriptions", "issue": "POST returns 200 (not 201). Cosmetic — should be 201 for creation per REST conventions."},
+      {"endpoint": "/api/evidence-packs", "issue": "POST returns 200 (not 201). Cosmetic."}
+    ]
+  },
+  "frontend_issues": {
+    "ui_bugs": [
+      {"component": "<head>/index.html", "issue": "Document <title> is still 'Emergent | Fullstack App' instead of WANA branding.", "selector": "<title>", "priority": "LOW"},
+      {"component": "PolicyMonitor", "issue": "Each regulation row renders TWICE in DOM (24 elements with prefix `monitor-row-` for 12 regs). Looks like a desktop+mobile dual render — confirm only one is visible per breakpoint; if so, no real bug. If both are visible at the same time on any viewport it would double-list rows.", "selector": "[data-testid^=\"monitor-row-\"]", "priority": "LOW"}
+    ],
+    "integration_issues": [],
+    "design_issues": []
+  },
+  "test_report_links": [
+    "/app/backend/tests/test_wana_backend.py",
+    "/app/test_reports/pytest/wana_results.xml"
+  ],
+  "action_items": [
+    "Wrap _generate_brief() Claude call in try/except for emergentintegrations.llm.chat.ChatError and return HTTPException(502, detail='AI service temporarily unavailable') so frontend can show a clean toast.",
+    "Update <title> in /app/frontend/public/index.html to 'WANA — Wilayah Adat Nusantara Accountability'.",
+    "Optional: change POST creation endpoints to return 201."
+  ],
+  "critical_code_review_comments": [
+    "server.py is 783 lines — consider splitting into routers/seed/llm modules once it grows further.",
+    "_extract_text_from_pdf is synchronous and runs in the event loop on /impact-brief/upload — for large PDFs this can block. Consider running in a threadpool (asyncio.to_thread).",
+    "ImpactBrief.confidence is not range-validated (Pydantic accepts any float). Add Field(ge=0, le=1).",
+    "AlertSubscription model accepts arbitrary `contact` string — no email/phone validation.",
+    "@app.on_event is deprecated in FastAPI; prefer lifespan context manager."
+  ],
+  "updated_files": [
+    "/app/backend/tests/test_wana_backend.py (new)"
+  ],
+  "success_rate": {"backend": "100% (21/21)", "frontend": "~95% (all flows verified; minor cosmetic items)"},
+  "test_credentials": "N/A — public MVP, no auth.",
+  "seed_data_creation": "Created TEST_-prefixed evidence pack, alert subscription, and impact brief via tests. Two evidence packs now exist (1 from UI test, 1 from pytest).",
+  "retest_needed": false,
+  "main_agent_can_self_test": true,
+  "context_for_next_testing_agent": "Backend tests at /app/backend/tests/test_wana_backend.py — run with `pytest -v`. Public URL from /app/frontend/.env (REACT_APP_BACKEND_URL). EMERGENT_LLM_KEY budget can throttle the /api/impact-brief/generate endpoint intermittently (litellm BadRequestError: Budget exceeded). If you hit a 500 there, retry after a few seconds or surface it as a known intermittent until the budget is raised. All UI elements expose data-testid per /app/frontend/src/constants/testIds/wana.js.",
+  "rca of the issue": "The lone backend failure during first pytest run (test_impact_brief_generate_and_pdf -> 500) was caused by litellm.BadRequestError: 'Budget has been exceeded! Current cost: 0.013095, Max budget: 0.001' surfacing from emergentintegrations. The call recovered on a subsequent attempt and the test passed. Mitigation: (1) catch ChatError in _generate_brief and return 502 with friendly message; (2) raise the Emergent LLM key budget in env if persistent."
+}

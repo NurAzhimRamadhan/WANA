@@ -1,0 +1,2116 @@
+[
+  {
+    "id": "68577cda-e78d-441d-b887-e4db28e28655",
+    "name": "Wilayah Adat Pesisir Sibolga",
+    "community": "Pesisir Sibolga",
+    "region": "Sumatera Utara",
+    "polygon": [
+      [
+        2.21136460868103,
+        99.15721895977647
+      ],
+      [
+        2.21136460868103,
+        99.53424871237765
+      ],
+      [
+        2.5883943612821976,
+        99.53424871237765
+      ],
+      [
+        2.5883943612821976,
+        99.15721895977647
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "d8fbf7b5-9a4c-414e-a2b0-7639dcce43cf",
+    "name": "Wilayah Adat Kerinci Pesisir",
+    "community": "Kerinci Pesisir",
+    "region": "Sumatera Barat",
+    "polygon": [
+      [
+        -1.3757460915036341,
+        100.65209523722197
+      ],
+      [
+        -1.3757460915036341,
+        100.93271268176784
+      ],
+      [
+        -1.0951286469577666,
+        100.93271268176784
+      ],
+      [
+        -1.0951286469577666,
+        100.65209523722197
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "7de2876e-0e6a-428c-ad64-07dec6cc07f7",
+    "name": "Wilayah Adat Mentawai",
+    "community": "Mentawai",
+    "region": "Sumatera Barat",
+    "polygon": [
+      [
+        -0.41002116357540297,
+        100.28912177491807
+      ],
+      [
+        -0.41002116357540297,
+        100.57423147445269
+      ],
+      [
+        -0.12491146404079845,
+        100.57423147445269
+      ],
+      [
+        -0.12491146404079845,
+        100.28912177491807
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "032c1ab0-3308-41c2-a6d5-752a04de676f",
+    "name": "Wilayah Adat Walak",
+    "community": "Walak",
+    "region": "Papua Pegunungan",
+    "polygon": [
+      [
+        -3.9273839901201626,
+        138.66245081120334
+      ],
+      [
+        -3.9273839901201626,
+        139.02012787923806
+      ],
+      [
+        -3.569706922085431,
+        139.02012787923806
+      ],
+      [
+        -3.569706922085431,
+        138.66245081120334
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "0769c8a2-e79f-46b1-a955-08c68d2cdb0b",
+    "name": "Wilayah Adat Tamiang",
+    "community": "Tamiang",
+    "region": "Aceh",
+    "polygon": [
+      [
+        4.793648586926128,
+        96.14327144604138
+      ],
+      [
+        4.793648586926128,
+        96.52825435018394
+      ],
+      [
+        5.1786314910687015,
+        96.52825435018394
+      ],
+      [
+        5.1786314910687015,
+        96.14327144604138
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "Perpres No. 440/2026 — PSN",
+    "overlap_polygon": [
+      [
+        4.890794268138978,
+        96.29094042257555
+      ],
+      [
+        4.890794268138978,
+        96.41711714399008
+      ],
+      [
+        5.016970989553504,
+        96.41711714399008
+      ],
+      [
+        5.016970989553504,
+        96.29094042257555
+      ]
+    ],
+    "note_id": "Tumpang tindih signifikan dengan psn — tingkat risiko kritis.",
+    "note_en": "Significant overlap with national strategic project — critical risk."
+  },
+  {
+    "id": "a266d062-cda9-491a-a06e-ef0ced265c25",
+    "name": "Wilayah Adat Akit",
+    "community": "Akit",
+    "region": "Riau",
+    "polygon": [
+      [
+        -0.023021989596358566,
+        101.23854951522135
+      ],
+      [
+        -0.023021989596358566,
+        101.58986923934042
+      ],
+      [
+        0.32829773452270805,
+        101.58986923934042
+      ],
+      [
+        0.32829773452270805,
+        101.23854951522135
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "SK.279/MENLHK/2025 — Sawit",
+    "overlap_polygon": [
+      [
+        -0.01242222546800259,
+        101.29521789956888
+      ],
+      [
+        -0.01242222546800259,
+        101.52646712263481
+      ],
+      [
+        0.21882699759791607,
+        101.52646712263481
+      ],
+      [
+        0.21882699759791607,
+        101.29521789956888
+      ]
+    ],
+    "note_id": "Tumpang tindih signifikan dengan sawit — tingkat risiko tinggi.",
+    "note_en": "Significant overlap with palm oil — high risk."
+  },
+  {
+    "id": "719d5c8d-9062-421b-a2be-1613279dc19a",
+    "name": "Wilayah Adat Dayak Kanayatn",
+    "community": "Dayak Kanayatn",
+    "region": "Kalimantan Barat",
+    "polygon": [
+      [
+        0.3169877911650973,
+        109.91889030343135
+      ],
+      [
+        0.3169877911650973,
+        110.31362249340314
+      ],
+      [
+        0.7117199811368748,
+        110.31362249340314
+      ],
+      [
+        0.7117199811368748,
+        109.91889030343135
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "412cfca1-79df-4437-a645-2841f7e6044a",
+    "name": "Wilayah Adat Bajau Bira",
+    "community": "Bajau Bira",
+    "region": "Sulawesi Selatan",
+    "polygon": [
+      [
+        -3.9996754867607707,
+        120.26165249560187
+      ],
+      [
+        -3.9996754867607707,
+        120.56188345926496
+      ],
+      [
+        -3.6994445230976827,
+        120.56188345926496
+      ],
+      [
+        -3.6994445230976827,
+        120.26165249560187
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "5caca8a9-b3aa-4d89-bb66-44d2a51a2d56",
+    "name": "Wilayah Adat Singkil",
+    "community": "Singkil",
+    "region": "Aceh",
+    "polygon": [
+      [
+        4.569424059524512,
+        95.99668879843543
+      ],
+      [
+        4.569424059524512,
+        96.37822511071431
+      ],
+      [
+        4.950960371803407,
+        96.37822511071431
+      ],
+      [
+        4.950960371803407,
+        95.99668879843543
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "Perpres No. 440/2026 — PSN",
+    "overlap_polygon": [
+      [
+        4.70109690992091,
+        96.15492684403239
+      ],
+      [
+        4.70109690992091,
+        96.27723871298483
+      ],
+      [
+        4.82340877887335,
+        96.27723871298483
+      ],
+      [
+        4.82340877887335,
+        96.15492684403239
+      ]
+    ],
+    "note_id": "Tumpang tindih parsial dengan psn — tingkat risiko kritis.",
+    "note_en": "Partial overlap with national strategic project — critical risk."
+  },
+  {
+    "id": "c498895d-2e9b-4229-9912-a715b9526114",
+    "name": "Wilayah Adat Kasepuhan Sinar Resmi",
+    "community": "Kasepuhan Sinar Resmi",
+    "region": "Jawa Barat",
+    "polygon": [
+      [
+        -7.53100071629174,
+        107.12410231630312
+      ],
+      [
+        -7.53100071629174,
+        107.40677307834036
+      ],
+      [
+        -7.2483299542545,
+        107.40677307834036
+      ],
+      [
+        -7.2483299542545,
+        107.12410231630312
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "P.473/MENLHK/2024 — Food Estate",
+    "overlap_polygon": [
+      [
+        -7.503587541624955,
+        107.2171888828889
+      ],
+      [
+        -7.503587541624955,
+        107.4037481670266
+      ],
+      [
+        -7.317028257487245,
+        107.4037481670266
+      ],
+      [
+        -7.317028257487245,
+        107.2171888828889
+      ]
+    ],
+    "note_id": "Tumpang tindih sebagian dengan food estate — tingkat risiko tinggi.",
+    "note_en": "Significant overlap with food estate — high risk."
+  },
+  {
+    "id": "448c9d4b-abb9-4dc1-8e4b-8912906ad373",
+    "name": "Wilayah Adat Dayak Bidayuh",
+    "community": "Dayak Bidayuh",
+    "region": "Kalimantan Barat",
+    "polygon": [
+      [
+        -0.6063684459606073,
+        109.671173961344
+      ],
+      [
+        -0.6063684459606073,
+        109.95924353663064
+      ],
+      [
+        -0.318298870673956,
+        109.95924353663064
+      ],
+      [
+        -0.318298870673956,
+        109.671173961344
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "0c757ced-2649-4f0e-9fae-6a56034cc2bd",
+    "name": "Wilayah Adat Kajang Ammatoa",
+    "community": "Kajang Ammatoa",
+    "region": "Sulawesi Selatan",
+    "polygon": [
+      [
+        -3.973665489401284,
+        120.35794604263803
+      ],
+      [
+        -3.973665489401284,
+        120.64671147541141
+      ],
+      [
+        -3.684900056627907,
+        120.64671147541141
+      ],
+      [
+        -3.684900056627907,
+        120.35794604263803
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "Perpres No. 167/2025 — PSN",
+    "overlap_polygon": [
+      [
+        -3.8990816941781103,
+        120.4740132356647
+      ],
+      [
+        -3.8990816941781103,
+        120.58988559951536
+      ],
+      [
+        -3.783209330327467,
+        120.58988559951536
+      ],
+      [
+        -3.783209330327467,
+        120.4740132356647
+      ]
+    ],
+    "note_id": "Tumpang tindih sebagian dengan psn — tingkat risiko tinggi.",
+    "note_en": "Partial overlap with national strategic project — high risk."
+  },
+  {
+    "id": "08ffd7f5-904f-4325-9651-2a270fb4818f",
+    "name": "Wilayah Adat Kasepuhan Ciptagelar",
+    "community": "Kasepuhan Ciptagelar",
+    "region": "Jawa Barat",
+    "polygon": [
+      [
+        -7.667402556567585,
+        107.42319195485885
+      ],
+      [
+        -7.667402556567585,
+        107.8172908193173
+      ],
+      [
+        -7.273303692109146,
+        107.8172908193173
+      ],
+      [
+        -7.273303692109146,
+        107.42319195485885
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "P.473/MENLHK/2024 — Food Estate",
+    "overlap_polygon": [
+      [
+        -7.567279627140519,
+        107.50427781032683
+      ],
+      [
+        -7.567279627140519,
+        107.69549175776417
+      ],
+      [
+        -7.376065679703175,
+        107.69549175776417
+      ],
+      [
+        -7.376065679703175,
+        107.50427781032683
+      ]
+    ],
+    "note_id": "Tumpang tindih sebagian dengan food estate — tingkat risiko tinggi.",
+    "note_en": "Significant overlap with food estate — high risk."
+  },
+  {
+    "id": "54898497-b2a4-4879-b798-7310c942af5f",
+    "name": "Wilayah Adat Sumba Wanokaka",
+    "community": "Sumba Wanokaka",
+    "region": "Nusa Tenggara Timur",
+    "polygon": [
+      [
+        -9.077773437069238,
+        120.38524615040886
+      ],
+      [
+        -9.077773437069238,
+        120.81650139170354
+      ],
+      [
+        -8.64651819577456,
+        120.81650139170354
+      ],
+      [
+        -8.64651819577456,
+        120.38524615040886
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "P.491/MENLHK/2026 — Kawasan Konservasi",
+    "overlap_polygon": [
+      [
+        -8.943518522698104,
+        120.47788590467601
+      ],
+      [
+        -8.943518522698104,
+        120.6660179324235
+      ],
+      [
+        -8.755386494950612,
+        120.6660179324235
+      ],
+      [
+        -8.755386494950612,
+        120.47788590467601
+      ]
+    ],
+    "note_id": "Tumpang tindih signifikan dengan kawasan konservasi — tingkat risiko tinggi.",
+    "note_en": "Partial overlap with conservation area — high risk."
+  },
+  {
+    "id": "53bba317-18b0-4645-8ff7-832d4c0e4e7b",
+    "name": "Wilayah Adat Batin Sembilan",
+    "community": "Batin Sembilan",
+    "region": "Jambi",
+    "polygon": [
+      [
+        -1.400076773804144,
+        102.9438206144797
+      ],
+      [
+        -1.400076773804144,
+        103.34957034867688
+      ],
+      [
+        -0.9943270396069701,
+        103.34957034867688
+      ],
+      [
+        -0.9943270396069701,
+        102.9438206144797
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "82e86745-f68d-4e19-bccf-05f6bcf79c3d",
+    "name": "Wilayah Adat Dayak Bukit",
+    "community": "Dayak Bukit",
+    "region": "Kalimantan Selatan",
+    "polygon": [
+      [
+        -2.91202539297735,
+        115.02060988040192
+      ],
+      [
+        -2.91202539297735,
+        115.42396075002735
+      ],
+      [
+        -2.508674523351914,
+        115.42396075002735
+      ],
+      [
+        -2.508674523351914,
+        115.02060988040192
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "P.891/MENLHK/2026 — Hutan Lindung",
+    "overlap_polygon": [
+      [
+        -2.8106267055865817,
+        115.19132010156599
+      ],
+      [
+        -2.8106267055865817,
+        115.29662418563046
+      ],
+      [
+        -2.705322621522121,
+        115.29662418563046
+      ],
+      [
+        -2.705322621522121,
+        115.19132010156599
+      ]
+    ],
+    "note_id": "Tumpang tindih signifikan dengan hutan lindung — tingkat risiko tinggi.",
+    "note_en": "Significant overlap with protected forest — high risk."
+  },
+  {
+    "id": "d0377ccd-1617-4798-a2d2-9fd0ae416dad",
+    "name": "Wilayah Adat Bolaang Mongondow",
+    "community": "Bolaang Mongondow",
+    "region": "Sulawesi Utara",
+    "polygon": [
+      [
+        0.8865463870433086,
+        124.37524539196643
+      ],
+      [
+        0.8865463870433086,
+        124.62933381041286
+      ],
+      [
+        1.1406348054897335,
+        124.62933381041286
+      ],
+      [
+        1.1406348054897335,
+        124.37524539196643
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "7ed9dac4-4e81-4bd2-9e94-d56a4982b12f",
+    "name": "Wilayah Adat Banjar Tengah",
+    "community": "Banjar Tengah",
+    "region": "Kalimantan Selatan",
+    "polygon": [
+      [
+        -2.774820095491622,
+        115.63242061146777
+      ],
+      [
+        -2.774820095491622,
+        115.95394716716693
+      ],
+      [
+        -2.4532935397924636,
+        115.95394716716693
+      ],
+      [
+        -2.4532935397924636,
+        115.63242061146777
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "Perpres No. 158/2025 — Infrastruktur",
+    "overlap_polygon": [
+      [
+        -2.7178852254410555,
+        115.64774207488483
+      ],
+      [
+        -2.7178852254410555,
+        115.8420038974107
+      ],
+      [
+        -2.523623402915176,
+        115.8420038974107
+      ],
+      [
+        -2.523623402915176,
+        115.64774207488483
+      ]
+    ],
+    "note_id": "Tumpang tindih parsial dengan infrastruktur — tingkat risiko tinggi.",
+    "note_en": "Significant overlap with infrastructure — high risk."
+  },
+  {
+    "id": "38468678-8873-44e5-bc3d-9f09eabbb08a",
+    "name": "Wilayah Adat Asmat",
+    "community": "Asmat",
+    "region": "Papua",
+    "polygon": [
+      [
+        -4.02588876389155,
+        138.44642317102318
+      ],
+      [
+        -4.02588876389155,
+        138.83761529036224
+      ],
+      [
+        -3.6346966445525144,
+        138.83761529036224
+      ],
+      [
+        -3.6346966445525144,
+        138.44642317102318
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "bcd31366-41f7-4a69-b069-887d2d932dd4",
+    "name": "Wilayah Adat Inanwatan",
+    "community": "Inanwatan",
+    "region": "Papua Barat",
+    "polygon": [
+      [
+        -1.7245293285038308,
+        132.6137994931797
+      ],
+      [
+        -1.7245293285038308,
+        132.8683173821395
+      ],
+      [
+        -1.4700114395440353,
+        132.8683173821395
+      ],
+      [
+        -1.4700114395440353,
+        132.6137994931797
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "62bcd9db-c81b-4307-9d7b-0bb643677442",
+    "name": "Wilayah Adat Kei Besar",
+    "community": "Kei Besar",
+    "region": "Maluku",
+    "polygon": [
+      [
+        -4.32277242074052,
+        128.8941352062106
+      ],
+      [
+        -4.32277242074052,
+        129.19440534817954
+      ],
+      [
+        -4.022502278771546,
+        129.19440534817954
+      ],
+      [
+        -4.022502278771546,
+        128.8941352062106
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "Perpres No. 426/2025 — PSN",
+    "overlap_polygon": [
+      [
+        -4.236653332902968,
+        129.024325173616
+      ],
+      [
+        -4.236653332902968,
+        129.12863985480593
+      ],
+      [
+        -4.132338651713026,
+        129.12863985480593
+      ],
+      [
+        -4.132338651713026,
+        129.024325173616
+      ]
+    ],
+    "note_id": "Tumpang tindih signifikan dengan psn — tingkat risiko tinggi.",
+    "note_en": "Significant overlap with national strategic project — high risk."
+  },
+  {
+    "id": "c84223fe-8c49-4bf8-8c39-565727d9747a",
+    "name": "Wilayah Adat Pasemah",
+    "community": "Pasemah",
+    "region": "Sumatera Selatan",
+    "polygon": [
+      [
+        -3.9360907088878903,
+        103.66944261723144
+      ],
+      [
+        -3.9360907088878903,
+        104.06893953979814
+      ],
+      [
+        -3.536593786321197,
+        104.06893953979814
+      ],
+      [
+        -3.536593786321197,
+        103.66944261723144
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "a9e2549e-5631-4d63-9d23-bbf4b607739e",
+    "name": "Wilayah Adat Nias",
+    "community": "Nias",
+    "region": "Sumatera Utara",
+    "polygon": [
+      [
+        2.420461808623139,
+        99.41775356435068
+      ],
+      [
+        2.420461808623139,
+        99.68656867184237
+      ],
+      [
+        2.6892769161148355,
+        99.68656867184237
+      ],
+      [
+        2.6892769161148355,
+        99.41775356435068
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "8e6339b3-929e-4831-86fa-0b984701097a",
+    "name": "Wilayah Adat Muna Tikep",
+    "community": "Muna Tikep",
+    "region": "Sulawesi Tenggara",
+    "polygon": [
+      [
+        -3.695929758000043,
+        122.16108808901737
+      ],
+      [
+        -3.695929758000043,
+        122.54695300434054
+      ],
+      [
+        -3.310064842676874,
+        122.54695300434054
+      ],
+      [
+        -3.310064842676874,
+        122.16108808901737
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "P.740/MENLHK/2024 — Kawasan Konservasi",
+    "overlap_polygon": [
+      [
+        -3.5562713426873755,
+        122.30090106011764
+      ],
+      [
+        -3.5562713426873755,
+        122.41815398236832
+      ],
+      [
+        -3.439018420436686,
+        122.41815398236832
+      ],
+      [
+        -3.439018420436686,
+        122.30090106011764
+      ]
+    ],
+    "note_id": "Tumpang tindih signifikan dengan kawasan konservasi — tingkat risiko tinggi.",
+    "note_en": "Partial overlap with conservation area — high risk."
+  },
+  {
+    "id": "c8ba1e4d-084a-4421-9540-0f17359189fc",
+    "name": "Wilayah Adat Dayak Modang Long Wai",
+    "community": "Dayak Modang Long Wai",
+    "region": "Kalimantan Timur",
+    "polygon": [
+      [
+        0.8941133430304022,
+        116.88590615183969
+      ],
+      [
+        0.8941133430304022,
+        117.1868443823096
+      ],
+      [
+        1.195051573500304,
+        117.1868443823096
+      ],
+      [
+        1.195051573500304,
+        116.88590615183969
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "0d360b70-9a7a-4f4a-8fc0-6d10828aa622",
+    "name": "Wilayah Adat Wana Bulang",
+    "community": "Wana Bulang",
+    "region": "Sulawesi Tengah",
+    "polygon": [
+      [
+        -1.2564292609055123,
+        121.7298704861846
+      ],
+      [
+        -1.2564292609055123,
+        122.03864081615431
+      ],
+      [
+        -0.947658930935783,
+        122.03864081615431
+      ],
+      [
+        -0.947658930935783,
+        121.7298704861846
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "SK.694/MENLHK/2024 — Sawit",
+    "overlap_polygon": [
+      [
+        -1.2443810458449724,
+        121.74790206242443
+      ],
+      [
+        -1.2443810458449724,
+        121.96476683378597
+      ],
+      [
+        -1.0275162744834438,
+        121.96476683378597
+      ],
+      [
+        -1.0275162744834438,
+        121.74790206242443
+      ]
+    ],
+    "note_id": "Tumpang tindih signifikan dengan sawit — tingkat risiko kritis.",
+    "note_en": "Significant overlap with palm oil — critical risk."
+  },
+  {
+    "id": "29ae7129-b169-4d1b-994b-04ea624bd3b4",
+    "name": "Wilayah Adat Lamaholot Lewotobi",
+    "community": "Lamaholot Lewotobi",
+    "region": "Nusa Tenggara Timur",
+    "polygon": [
+      [
+        -9.987595531048369,
+        121.15436695154989
+      ],
+      [
+        -9.987595531048369,
+        121.56481717710338
+      ],
+      [
+        -9.577145305494872,
+        121.56481717710338
+      ],
+      [
+        -9.577145305494872,
+        121.15436695154989
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "526e9e76-6a4e-4e3d-b38d-f0aba5208f10",
+    "name": "Wilayah Adat Mandobo Boven Digoel",
+    "community": "Mandobo Boven Digoel",
+    "region": "Papua Selatan",
+    "polygon": [
+      [
+        -6.647282681885182,
+        139.92704914014158
+      ],
+      [
+        -6.647282681885182,
+        140.25930218087947
+      ],
+      [
+        -6.315029641147262,
+        140.25930218087947
+      ],
+      [
+        -6.315029641147262,
+        139.92704914014158
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "a46cb462-05fd-4feb-997c-fbd069bf3515",
+    "name": "Wilayah Adat Orang Mantang",
+    "community": "Orang Mantang",
+    "region": "Kepulauan Riau",
+    "polygon": [
+      [
+        0.8328612558745201,
+        104.12204692528361
+      ],
+      [
+        0.8328612558745201,
+        104.37551947676458
+      ],
+      [
+        1.0863338073554802,
+        104.37551947676458
+      ],
+      [
+        1.0863338073554802,
+        104.12204692528361
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "Perpres No. 275/2026 — PSN",
+    "overlap_polygon": [
+      [
+        0.892657411825042,
+        104.21893750652768
+      ],
+      [
+        0.892657411825042,
+        104.36893687678935
+      ],
+      [
+        1.0426567820866972,
+        104.36893687678935
+      ],
+      [
+        1.0426567820866972,
+        104.21893750652768
+      ]
+    ],
+    "note_id": "Tumpang tindih parsial dengan psn — tingkat risiko tinggi.",
+    "note_en": "Significant overlap with national strategic project — high risk."
+  },
+  {
+    "id": "e3e4bbbe-d98f-407d-a2a3-849e07ba9faf",
+    "name": "Wilayah Adat Adat Mataraman",
+    "community": "Adat Mataraman",
+    "region": "DI Yogyakarta",
+    "polygon": [
+      [
+        -8.489957790353783,
+        110.33340707350092
+      ],
+      [
+        -8.489957790353783,
+        110.7534307916695
+      ],
+      [
+        -8.0699340721852,
+        110.7534307916695
+      ],
+      [
+        -8.0699340721852,
+        110.33340707350092
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "5b11207b-314d-4d15-8d9a-14e16b2b9591",
+    "name": "Wilayah Adat Aneuk Jamee",
+    "community": "Aneuk Jamee",
+    "region": "Aceh",
+    "polygon": [
+      [
+        4.299708881654525,
+        96.45914093083198
+      ],
+      [
+        4.299708881654525,
+        96.82240941688386
+      ],
+      [
+        4.662977367706415,
+        96.82240941688386
+      ],
+      [
+        4.662977367706415,
+        96.45914093083198
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "Perpres No. 440/2026 — PSN",
+    "overlap_polygon": [
+      [
+        4.415755004306238,
+        96.55508119626104
+      ],
+      [
+        4.415755004306238,
+        96.69936783859053
+      ],
+      [
+        4.5600416466357245,
+        96.69936783859053
+      ],
+      [
+        4.5600416466357245,
+        96.55508119626104
+      ]
+    ],
+    "note_id": "Tumpang tindih sebagian dengan psn — tingkat risiko kritis.",
+    "note_en": "Significant overlap with national strategic project — critical risk."
+  },
+  {
+    "id": "3b576eb9-f1c7-4993-a4e4-5009a0523624",
+    "name": "Wilayah Adat Tehit Konda",
+    "community": "Tehit Konda",
+    "region": "Papua Barat",
+    "polygon": [
+      [
+        -2.436354311223046,
+        132.05325759583394
+      ],
+      [
+        -2.436354311223046,
+        132.33756273667524
+      ],
+      [
+        -2.1520491703817424,
+        132.33756273667524
+      ],
+      [
+        -2.1520491703817424,
+        132.05325759583394
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "ec88d301-1a25-477e-a1cb-deed6151fa57",
+    "name": "Wilayah Adat Alas",
+    "community": "Alas",
+    "region": "Aceh",
+    "polygon": [
+      [
+        4.489918296069337,
+        96.97470148729849
+      ],
+      [
+        4.489918296069337,
+        97.24156265377508
+      ],
+      [
+        4.756779462545914,
+        97.24156265377508
+      ],
+      [
+        4.756779462545914,
+        96.97470148729849
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "a199fa18-53e0-4b3d-8f59-eff96e6265f7",
+    "name": "Wilayah Adat Auyu",
+    "community": "Auyu",
+    "region": "Papua Selatan",
+    "polygon": [
+      [
+        -6.702411164801806,
+        139.29954389107937
+      ],
+      [
+        -6.702411164801806,
+        139.6112922115021
+      ],
+      [
+        -6.3906628443790865,
+        139.6112922115021
+      ],
+      [
+        -6.3906628443790865,
+        139.29954389107937
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "df07b00f-9d3d-403e-8c44-ee9af156d0f9",
+    "name": "Wilayah Adat Rejang",
+    "community": "Rejang",
+    "region": "Bengkulu",
+    "polygon": [
+      [
+        -4.071010860355121,
+        102.22442917530272
+      ],
+      [
+        -4.071010860355121,
+        102.49958320748176
+      ],
+      [
+        -3.7958568281760754,
+        102.49958320748176
+      ],
+      [
+        -3.7958568281760754,
+        102.22442917530272
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "953653b0-2b84-40d0-a933-dcc8d6073a18",
+    "name": "Wilayah Adat Pamona Poso",
+    "community": "Pamona Poso",
+    "region": "Sulawesi Tengah",
+    "polygon": [
+      [
+        -1.123848572465707,
+        121.69645621957335
+      ],
+      [
+        -1.123848572465707,
+        121.96445655331658
+      ],
+      [
+        -0.8558482387224672,
+        121.96445655331658
+      ],
+      [
+        -0.8558482387224672,
+        121.69645621957335
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "SK.694/MENLHK/2024 — Sawit",
+    "overlap_polygon": [
+      [
+        -1.067413719593773,
+        121.74219849924819
+      ],
+      [
+        -1.067413719593773,
+        121.94403805065645
+      ],
+      [
+        -0.8655741681855119,
+        121.94403805065645
+      ],
+      [
+        -0.8655741681855119,
+        121.74219849924819
+      ]
+    ],
+    "note_id": "Tumpang tindih signifikan dengan sawit — tingkat risiko kritis.",
+    "note_en": "Significant overlap with palm oil — critical risk."
+  },
+  {
+    "id": "c4b1c01e-7626-4271-871c-c1329534d9f0",
+    "name": "Wilayah Adat Dayak Kenyah",
+    "community": "Dayak Kenyah",
+    "region": "Kalimantan Timur",
+    "polygon": [
+      [
+        1.1782508543078969,
+        116.39776091923682
+      ],
+      [
+        1.1782508543078969,
+        116.79160097021733
+      ],
+      [
+        1.5720909052883998,
+        116.79160097021733
+      ],
+      [
+        1.5720909052883998,
+        116.39776091923682
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "5fcd82eb-f309-4f26-b757-b922fcf20ee2",
+    "name": "Wilayah Adat Mbojo Donggo",
+    "community": "Mbojo Donggo",
+    "region": "Nusa Tenggara Barat",
+    "polygon": [
+      [
+        -9.0907488087325,
+        116.79792593902026
+      ],
+      [
+        -9.0907488087325,
+        117.09004920330837
+      ],
+      [
+        -8.798625544444388,
+        117.09004920330837
+      ],
+      [
+        -8.798625544444388,
+        116.79792593902026
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "d4db6696-bf93-4720-8ad1-4543d3be77d1",
+    "name": "Wilayah Adat Bantik",
+    "community": "Bantik",
+    "region": "Sulawesi Utara",
+    "polygon": [
+      [
+        1.3127492418135915,
+        124.84982646877806
+      ],
+      [
+        1.3127492418135915,
+        125.1195530654998
+      ],
+      [
+        1.582475838535328,
+        125.1195530654998
+      ],
+      [
+        1.582475838535328,
+        124.84982646877806
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "61c41bc8-2804-448e-af73-62634f90e8ec",
+    "name": "Wilayah Adat Anak Dalam Sumsel",
+    "community": "Anak Dalam Sumsel",
+    "region": "Sumatera Selatan",
+    "polygon": [
+      [
+        -3.6079620604616007,
+        104.29076497698763
+      ],
+      [
+        -3.6079620604616007,
+        104.64868512794298
+      ],
+      [
+        -3.2500419095062414,
+        104.64868512794298
+      ],
+      [
+        -3.2500419095062414,
+        104.29076497698763
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "39cdcffb-169e-4ab1-a6bb-0b94d0a68f8f",
+    "name": "Wilayah Adat Pekal",
+    "community": "Pekal",
+    "region": "Bengkulu",
+    "polygon": [
+      [
+        -3.441515332176106,
+        101.6905451941982
+      ],
+      [
+        -3.441515332176106,
+        102.03076982847364
+      ],
+      [
+        -3.1012906979006516,
+        102.03076982847364
+      ],
+      [
+        -3.1012906979006516,
+        101.6905451941982
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "SK ESDM No. 215/2025 — Tambang",
+    "overlap_polygon": [
+      [
+        -3.3805450168790068,
+        101.76756663146652
+      ],
+      [
+        -3.3805450168790068,
+        101.98628408908105
+      ],
+      [
+        -3.161827559264465,
+        101.98628408908105
+      ],
+      [
+        -3.161827559264465,
+        101.76756663146652
+      ]
+    ],
+    "note_id": "Tumpang tindih parsial dengan tambang — tingkat risiko tinggi.",
+    "note_en": "Significant overlap with mining — high risk."
+  },
+  {
+    "id": "9026bf37-3964-444a-9d88-ce1428e62fa5",
+    "name": "Wilayah Adat Dayak Ngaju Kapuas",
+    "community": "Dayak Ngaju Kapuas",
+    "region": "Kalimantan Tengah",
+    "polygon": [
+      [
+        -1.827274956263233,
+        112.93252258939705
+      ],
+      [
+        -1.827274956263233,
+        113.20436707297995
+      ],
+      [
+        -1.5554304726803414,
+        113.20436707297995
+      ],
+      [
+        -1.5554304726803414,
+        112.93252258939705
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "60fe5621-0f3e-458d-a987-92edfb53a2d5",
+    "name": "Wilayah Adat Loloda",
+    "community": "Loloda",
+    "region": "Maluku Utara",
+    "polygon": [
+      [
+        0.9443551343508362,
+        128.11201427972085
+      ],
+      [
+        0.9443551343508362,
+        128.38125409033054
+      ],
+      [
+        1.213594944960534,
+        128.38125409033054
+      ],
+      [
+        1.213594944960534,
+        128.11201427972085
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "fa4bc8d7-42a1-439f-96d3-9e2df08e7b8a",
+    "name": "Wilayah Adat Mandar Balanipa",
+    "community": "Mandar Balanipa",
+    "region": "Sulawesi Barat",
+    "polygon": [
+      [
+        -2.5456366129344543,
+        119.40296832731867
+      ],
+      [
+        -2.5456366129344543,
+        119.65105229252903
+      ],
+      [
+        -2.297552647724107,
+        119.65105229252903
+      ],
+      [
+        -2.297552647724107,
+        119.40296832731867
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "c71e769f-f475-4089-b360-e0d2865fed03",
+    "name": "Wilayah Adat Dayak Tamambaloh",
+    "community": "Dayak Tamambaloh",
+    "region": "Kalimantan Barat",
+    "polygon": [
+      [
+        -0.4653019777599532,
+        109.57382667123558
+      ],
+      [
+        -0.4653019777599532,
+        109.86063040500584
+      ],
+      [
+        -0.1784982439896894,
+        109.86063040500584
+      ],
+      [
+        -0.1784982439896894,
+        109.57382667123558
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "fbb6649b-6936-4761-bd96-cf676c08bb9e",
+    "name": "Wilayah Adat Pakpak",
+    "community": "Pakpak",
+    "region": "Sumatera Utara",
+    "polygon": [
+      [
+        2.503156674295692,
+        98.8223162300374
+      ],
+      [
+        2.503156674295692,
+        99.2206083214685
+      ],
+      [
+        2.90144876572679,
+        99.2206083214685
+      ],
+      [
+        2.90144876572679,
+        98.8223162300374
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "Perpres No. 700/2024 — PSN",
+    "overlap_polygon": [
+      [
+        2.645061185733137,
+        98.88005601320151
+      ],
+      [
+        2.645061185733137,
+        99.07084947802139
+      ],
+      [
+        2.835854650553,
+        99.07084947802139
+      ],
+      [
+        2.835854650553,
+        98.88005601320151
+      ]
+    ],
+    "note_id": "Tumpang tindih signifikan dengan psn — tingkat risiko tinggi.",
+    "note_en": "Partial overlap with national strategic project — high risk."
+  },
+  {
+    "id": "7bae3d36-fdef-4be4-91fe-644b14d3b264",
+    "name": "Wilayah Adat Tenganan Pegringsingan",
+    "community": "Tenganan Pegringsingan",
+    "region": "Bali",
+    "polygon": [
+      [
+        -8.172588286747965,
+        114.74154427705214
+      ],
+      [
+        -8.172588286747965,
+        115.09041428946982
+      ],
+      [
+        -7.823718274330291,
+        115.09041428946982
+      ],
+      [
+        -7.823718274330291,
+        114.74154427705214
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "SK.836/MENLHK/2025 — HTI",
+    "overlap_polygon": [
+      [
+        -8.12010643747739,
+        114.82283010317931
+      ],
+      [
+        -8.12010643747739,
+        115.03979577265403
+      ],
+      [
+        -7.903140768002658,
+        115.03979577265403
+      ],
+      [
+        -7.903140768002658,
+        114.82283010317931
+      ]
+    ],
+    "note_id": "Tumpang tindih parsial dengan hti — tingkat risiko tinggi.",
+    "note_en": "Partial overlap with industrial plantation — high risk."
+  },
+  {
+    "id": "83ff9210-5744-4aa8-957e-8c9eee35a8a0",
+    "name": "Wilayah Adat Suku Laut",
+    "community": "Suku Laut",
+    "region": "Kepulauan Riau",
+    "polygon": [
+      [
+        0.5799573590354972,
+        104.81705373351943
+      ],
+      [
+        0.5799573590354972,
+        105.16032808995294
+      ],
+      [
+        0.9232317154690113,
+        105.16032808995294
+      ],
+      [
+        0.9232317154690113,
+        104.81705373351943
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "P.463/MENLHK/2024 — Kawasan Konservasi",
+    "overlap_polygon": [
+      [
+        0.6579859248996737,
+        104.8946071520875
+      ],
+      [
+        0.6579859248996737,
+        105.07919668932749
+      ],
+      [
+        0.8425754621396698,
+        105.07919668932749
+      ],
+      [
+        0.8425754621396698,
+        104.8946071520875
+      ]
+    ],
+    "note_id": "Tumpang tindih parsial dengan kawasan konservasi — tingkat risiko tinggi.",
+    "note_en": "Significant overlap with conservation area — high risk."
+  },
+  {
+    "id": "dab2a076-03fc-4e20-8150-ada7a3e991d7",
+    "name": "Wilayah Adat Tolaki Mekongga",
+    "community": "Tolaki Mekongga",
+    "region": "Sulawesi Tenggara",
+    "polygon": [
+      [
+        -4.243575686407244,
+        121.50453479191779
+      ],
+      [
+        -4.243575686407244,
+        121.84744304654637
+      ],
+      [
+        -3.900667431778649,
+        121.84744304654637
+      ],
+      [
+        -3.900667431778649,
+        121.50453479191779
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "P.740/MENLHK/2024 — Kawasan Konservasi",
+    "overlap_polygon": [
+      [
+        -4.203642181103856,
+        121.5620000240618
+      ],
+      [
+        -4.203642181103856,
+        121.76242240324538
+      ],
+      [
+        -4.003219801920283,
+        121.76242240324538
+      ],
+      [
+        -4.003219801920283,
+        121.5620000240618
+      ]
+    ],
+    "note_id": "Tumpang tindih signifikan dengan kawasan konservasi — tingkat risiko tinggi.",
+    "note_en": "Significant overlap with conservation area — high risk."
+  },
+  {
+    "id": "d5cdd6af-b27a-4227-8b03-e78ef3a98491",
+    "name": "Wilayah Adat Kasepuhan Cisitu",
+    "community": "Kasepuhan Cisitu",
+    "region": "Banten",
+    "polygon": [
+      [
+        -6.633797447642271,
+        105.86493584853525
+      ],
+      [
+        -6.633797447642271,
+        106.12760358804806
+      ],
+      [
+        -6.371129708129475,
+        106.12760358804806
+      ],
+      [
+        -6.371129708129475,
+        105.86493584853525
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "707dd6cc-2ca6-4804-80b5-e0399ec9229e",
+    "name": "Wilayah Adat Lembak",
+    "community": "Lembak",
+    "region": "Bengkulu",
+    "polygon": [
+      [
+        -3.668803778302275,
+        102.09574630615651
+      ],
+      [
+        -3.668803778302275,
+        102.45390448591834
+      ],
+      [
+        -3.310645598540439,
+        102.45390448591834
+      ],
+      [
+        -3.310645598540439,
+        102.09574630615651
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "95726cc4-2cbe-4748-a21a-54bc28357390",
+    "name": "Wilayah Adat Sekak",
+    "community": "Sekak",
+    "region": "Bangka Belitung",
+    "polygon": [
+      [
+        -2.7397094628990697,
+        106.05961585741062
+      ],
+      [
+        -2.7397094628990697,
+        106.32519288040044
+      ],
+      [
+        -2.4741324399092504,
+        106.32519288040044
+      ],
+      [
+        -2.4741324399092504,
+        106.05961585741062
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "c750a94c-457d-4644-9be6-a01669ba0b68",
+    "name": "Wilayah Adat Arfak Hatam",
+    "community": "Arfak Hatam",
+    "region": "Papua Barat",
+    "polygon": [
+      [
+        -1.760447089154751,
+        131.89040457600004
+      ],
+      [
+        -1.760447089154751,
+        132.23293313920027
+      ],
+      [
+        -1.4179185259545293,
+        132.23293313920027
+      ],
+      [
+        -1.4179185259545293,
+        131.89040457600004
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "594e8f35-2c06-4c44-bde9-c1998d93195b",
+    "name": "Wilayah Adat Moronene Hukaea Laea",
+    "community": "Moronene Hukaea Laea",
+    "region": "Sulawesi Tenggara",
+    "polygon": [
+      [
+        -4.636006566963415,
+        121.38736495250396
+      ],
+      [
+        -4.636006566963415,
+        121.81185432663497
+      ],
+      [
+        -4.211517192832394,
+        121.81185432663497
+      ],
+      [
+        -4.211517192832394,
+        121.38736495250396
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "SK ESDM No. 495/2024 — Geothermal",
+    "overlap_polygon": [
+      [
+        -4.465129530113018,
+        121.55466670730843
+      ],
+      [
+        -4.465129530113018,
+        121.65727351229765
+      ],
+      [
+        -4.362522725123805,
+        121.65727351229765
+      ],
+      [
+        -4.362522725123805,
+        121.55466670730843
+      ]
+    ],
+    "note_id": "Tumpang tindih parsial dengan geothermal — tingkat risiko tinggi.",
+    "note_en": "Partial overlap with geothermal — high risk."
+  },
+  {
+    "id": "74ee9809-862c-4e70-9ff1-8cbc4f39e729",
+    "name": "Wilayah Adat Manggarai",
+    "community": "Manggarai",
+    "region": "Nusa Tenggara Timur",
+    "polygon": [
+      [
+        -9.043947947445359,
+        120.47925951167768
+      ],
+      [
+        -9.043947947445359,
+        120.84056469126286
+      ],
+      [
+        -8.682642767860175,
+        120.84056469126286
+      ],
+      [
+        -8.682642767860175,
+        120.47925951167768
+      ]
+    ],
+    "has_overlap": true,
+    "overlap_with": "P.491/MENLHK/2026 — Kawasan Konservasi",
+    "overlap_polygon": [
+      [
+        -8.98829738926258,
+        120.6008897489319
+      ],
+      [
+        -8.98829738926258,
+        120.78500716894948
+      ],
+      [
+        -8.804179969245013,
+        120.78500716894948
+      ],
+      [
+        -8.804179969245013,
+        120.6008897489319
+      ]
+    ],
+    "note_id": "Tumpang tindih parsial dengan kawasan konservasi — tingkat risiko tinggi.",
+    "note_en": "Significant overlap with conservation area — high risk."
+  },
+  {
+    "id": "a7368dbc-9c5a-4832-a8c6-e7ba761a4161",
+    "name": "Wilayah Adat Mandailing",
+    "community": "Mandailing",
+    "region": "Sumatera Utara",
+    "polygon": [
+      [
+        2.511081916534601,
+        98.8761937199906
+      ],
+      [
+        2.511081916534601,
+        99.14973806030932
+      ],
+      [
+        2.784626256853321,
+        99.14973806030932
+      ],
+      [
+        2.784626256853321,
+        98.8761937199906
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "e497ad29-3401-45b6-b9dc-f1e8efa5a75b",
+    "name": "Wilayah Adat Wambon",
+    "community": "Wambon",
+    "region": "Papua Selatan",
+    "polygon": [
+      [
+        -6.620061955890187,
+        139.4889557452927
+      ],
+      [
+        -6.620061955890187,
+        139.74272432470096
+      ],
+      [
+        -6.366293376481939,
+        139.74272432470096
+      ],
+      [
+        -6.366293376481939,
+        139.4889557452927
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "8a86041e-ee64-4bff-b388-ccca557d0e99",
+    "name": "Wilayah Adat Moi Kelim",
+    "community": "Moi Kelim",
+    "region": "Papua Barat Daya",
+    "polygon": [
+      [
+        -1.5678026401823804,
+        130.9369995754216
+      ],
+      [
+        -1.5678026401823804,
+        131.18031210087625
+      ],
+      [
+        -1.3244901147276975,
+        131.18031210087625
+      ],
+      [
+        -1.3244901147276975,
+        130.9369995754216
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "72bc5b35-39b4-446b-8c1d-2820c01aefc7",
+    "name": "Wilayah Adat Dayak Bakumpai",
+    "community": "Dayak Bakumpai",
+    "region": "Kalimantan Tengah",
+    "polygon": [
+      [
+        -2.1611831714992933,
+        113.80277028458754
+      ],
+      [
+        -2.1611831714992933,
+        114.1796438508273
+      ],
+      [
+        -1.7843096052595264,
+        114.1796438508273
+      ],
+      [
+        -1.7843096052595264,
+        113.80277028458754
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  },
+  {
+    "id": "73193c8a-5855-4453-9100-25aa64680731",
+    "name": "Wilayah Adat Petalangan",
+    "community": "Petalangan",
+    "region": "Riau",
+    "polygon": [
+      [
+        0.21645239959719387,
+        100.90274579934454
+      ],
+      [
+        0.21645239959719387,
+        101.32306744301705
+      ],
+      [
+        0.6367740432697021,
+        101.32306744301705
+      ],
+      [
+        0.6367740432697021,
+        100.90274579934454
+      ]
+    ],
+    "has_overlap": false,
+    "overlap_with": null,
+    "overlap_polygon": null,
+    "note_id": "Belum terdeteksi tumpang tindih aktif.",
+    "note_en": "No active overlap detected."
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/WANA/static/css/main.6a36045f.css",
+    "main.js": "/WANA/static/js/main.9ed1ab1a.js",
+    "static/js/239.e39fb35b.chunk.js": "/WANA/static/js/239.e39fb35b.chunk.js",
+    "static/js/977.97c88509.chunk.js": "/WANA/static/js/977.97c88509.chunk.js",
+    "static/js/455.d6505a62.chunk.js": "/WANA/static/js/455.d6505a62.chunk.js",
+    "index.html": "/WANA/index.html",
+    "main.6a36045f.css.map": "/WANA/static/css/main.6a36045f.css.map",
+    "main.9ed1ab1a.js.map": "/WANA/static/js/main.9ed1ab1a.js.map",
+    "239.e39fb35b.chunk.js.map": "/WANA/static/js/239.e39fb35b.chunk.js.map",
+    "977.97c88509.chunk.js.map": "/WANA/static/js/977.97c88509.chunk.js.map",
+    "455.d6505a62.chunk.js.map": "/WANA/static/js/455.d6505a62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a36045f.css",
+    "static/js/main.9ed1ab1a.js"
+  ]
+}
